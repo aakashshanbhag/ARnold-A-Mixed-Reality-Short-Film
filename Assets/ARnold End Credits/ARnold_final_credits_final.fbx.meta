@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: a8ad316df7f24344e99052dd498202bf
+timeCreated: 1490087034
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CABone
+    100004: Chinmay_Aakash
+    100006: Chinmay_Aakash 1
+    100008: ElizaBone
+    100010: ElizaBoneCopy
+    100012: Greg
+    100014: Gregbone
+    100016: GregText
+    100018: Kacey
+    100020: KaceyBone
+    100022: KaceyType
+    100024: Marcus
+    100026: MarcusBone
+    100028: MarcusType
+    100030: pCube1
+    100032: pCylinder1
+    100034: pCylinder2
+    100036: pCylinder3
+    100038: pCylinder4
+    100040: SpecialThanks
+    100042: SpecialThanksBone
+    100044: SpecialThanksHeadlineType
+    100046: SpecialThanksType1
+    100048: SpecialThanksType2
+    100050: Stephen
+    100052: StephenBone
+    100054: StephenBone 1
+    100056: StephenBone 2
+    100058: StephenBoneCopy
+    100060: StephenType
+    100062: transform1
+    100064: transform11
+    100066: transform12
+    100068: transform13
+    100070: transform14
+    100072: transform15
+    100074: transform2
+    100076: transform3
+    100078: transform4
+    100080: transform5
+    100082: transform6
+    100084: transform7
+    100086: transform8
+    100088: transform9
+    100090: typeMesh1
+    100092: Yimin
+    100094: YiminBone
+    100096: YiminType
+    400000: //RootNode
+    400002: CABone
+    400004: Chinmay_Aakash
+    400006: Chinmay_Aakash 1
+    400008: ElizaBone
+    400010: ElizaBoneCopy
+    400012: Greg
+    400014: Gregbone
+    400016: GregText
+    400018: Kacey
+    400020: KaceyBone
+    400022: KaceyType
+    400024: Marcus
+    400026: MarcusBone
+    400028: MarcusType
+    400030: pCube1
+    400032: pCylinder1
+    400034: pCylinder2
+    400036: pCylinder3
+    400038: pCylinder4
+    400040: SpecialThanks
+    400042: SpecialThanksBone
+    400044: SpecialThanksHeadlineType
+    400046: SpecialThanksType1
+    400048: SpecialThanksType2
+    400050: Stephen
+    400052: StephenBone
+    400054: StephenBone 1
+    400056: StephenBone 2
+    400058: StephenBoneCopy
+    400060: StephenType
+    400062: transform1
+    400064: transform11
+    400066: transform12
+    400068: transform13
+    400070: transform14
+    400072: transform15
+    400074: transform2
+    400076: transform3
+    400078: transform4
+    400080: transform5
+    400082: transform6
+    400084: transform7
+    400086: transform8
+    400088: transform9
+    400090: typeMesh1
+    400092: Yimin
+    400094: YiminBone
+    400096: YiminType
+    2300000: CABone
+    2300002: Chinmay_Aakash 1
+    2300004: Gregbone
+    2300006: GregText
+    2300008: KaceyBone
+    2300010: KaceyType
+    2300012: MarcusBone
+    2300014: MarcusType
+    2300016: SpecialThanksBone
+    2300018: SpecialThanksHeadlineType
+    2300020: SpecialThanksType1
+    2300022: SpecialThanksType2
+    2300024: StephenBone
+    2300026: StephenBone 2
+    2300028: StephenType
+    2300030: typeMesh1
+    2300032: YiminBone
+    2300034: YiminType
+    3300000: CABone
+    3300002: Chinmay_Aakash 1
+    3300004: Gregbone
+    3300006: GregText
+    3300008: KaceyBone
+    3300010: KaceyType
+    3300012: MarcusBone
+    3300014: MarcusType
+    3300016: SpecialThanksBone
+    3300018: SpecialThanksHeadlineType
+    3300020: SpecialThanksType1
+    3300022: SpecialThanksType2
+    3300024: StephenBone
+    3300026: StephenBone 2
+    3300028: StephenType
+    3300030: typeMesh1
+    3300032: YiminBone
+    3300034: YiminType
+    4300000: Gregbone
+    4300002: GregText
+    4300004: CABone
+    4300006: Chinmay_Aakash
+    4300008: YiminType
+    4300010: YiminBone
+    4300012: KaceyBone
+    4300014: KaceyType
+    4300016: MarcusType
+    4300018: MarcusBone
+    4300020: SpecialThanksHeadlineType
+    4300022: SpecialThanksType1
+    4300024: SpecialThanksType2
+    4300026: SpecialThanksBone
+    4300028: StephenBone
+    4300030: StephenType
+    4300032: StephenBone
+    4300034: typeMesh1
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

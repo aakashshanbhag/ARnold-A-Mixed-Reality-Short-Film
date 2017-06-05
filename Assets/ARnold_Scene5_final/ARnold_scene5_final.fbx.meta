@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 8fd614d4f3b144e438b797fe104577dd
+timeCreated: 1490086887
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ARnold_rig_v04:Beagle
+    100002: ARnold_rig_v04:Bip002 Head
+    100004: ARnold_rig_v04:Bip002 L Calf
+    100006: ARnold_rig_v04:Bip002 L Clavicle
+    100008: ARnold_rig_v04:Bip002 L Foot
+    100010: ARnold_rig_v04:Bip002 L Forearm
+    100012: ARnold_rig_v04:Bip002 L Hand
+    100014: ARnold_rig_v04:Bip002 L HorseLink
+    100016: ARnold_rig_v04:Bip002 L Thigh
+    100018: ARnold_rig_v04:Bip002 L UpperArm
+    100020: ARnold_rig_v04:Bip002 Neck
+    100022: ARnold_rig_v04:Bip002 Pelvis
+    100024: ARnold_rig_v04:Bip002 R Calf
+    100026: ARnold_rig_v04:Bip002 R Clavicle
+    100028: ARnold_rig_v04:Bip002 R Foot
+    100030: ARnold_rig_v04:Bip002 R Forearm
+    100032: ARnold_rig_v04:Bip002 R Hand
+    100034: ARnold_rig_v04:Bip002 R HorseLink
+    100036: ARnold_rig_v04:Bip002 R Thigh
+    100038: ARnold_rig_v04:Bip002 R UpperArm
+    100040: ARnold_rig_v04:Bip002 Spine
+    100042: ARnold_rig_v04:Bip002 Spine1
+    100044: ARnold_rig_v04:Bip002 Spine2
+    100046: ARnold_rig_v04:Bip002 Tail
+    100048: ARnold_rig_v04:Bip003
+    100050: ARnold_rig_v04:Bip003 Footsteps
+    100052: ARnold_rig_v04:Bip003 HeadNub
+    100054: ARnold_rig_v04:Bip003 L Toe0
+    100056: ARnold_rig_v04:Bip003 L Toe0Nub
+    100058: ARnold_rig_v04:Bip003 Ponytail1
+    100060: ARnold_rig_v04:Bip003 Ponytail1Nub
+    100062: ARnold_rig_v04:Bip003 Ponytail2
+    100064: ARnold_rig_v04:Bip003 Ponytail2Nub
+    100066: ARnold_rig_v04:Bip003 R Toe0
+    100068: ARnold_rig_v04:Bip003 R Toe0Nub
+    100070: ARnold_rig_v04:Bip003 Tail1
+    100072: ARnold_rig_v04:Bip003 TailNub
+    100074: ARnold_rig_v04:body_ctl
+    100076: ARnold_rig_v04:Bone005
+    100078: ARnold_rig_v04:Bone006
+    100080: ARnold_rig_v04:EarRightBase001
+    100082: ARnold_rig_v04:EarRightBase002
+    100084: ARnold_rig_v04:EarRightMiddle001
+    100086: ARnold_rig_v04:EarRightMiddle002
+    100088: ARnold_rig_v04:nurbsCircle1
+    100090: ARnold_rig_v04:nurbsCircle10
+    100092: ARnold_rig_v04:nurbsCircle11
+    100094: ARnold_rig_v04:nurbsCircle12
+    100096: ARnold_rig_v04:nurbsCircle13
+    100098: ARnold_rig_v04:nurbsCircle14
+    100100: ARnold_rig_v04:nurbsCircle15
+    100102: ARnold_rig_v04:nurbsCircle16
+    100104: ARnold_rig_v04:nurbsCircle17
+    100106: ARnold_rig_v04:nurbsCircle18
+    100108: ARnold_rig_v04:nurbsCircle19
+    100110: ARnold_rig_v04:nurbsCircle2
+    100112: ARnold_rig_v04:nurbsCircle20
+    100114: ARnold_rig_v04:nurbsCircle21
+    100116: ARnold_rig_v04:nurbsCircle22
+    100118: ARnold_rig_v04:nurbsCircle23
+    100120: ARnold_rig_v04:nurbsCircle24
+    100122: ARnold_rig_v04:nurbsCircle25
+    100124: ARnold_rig_v04:nurbsCircle26
+    100126: ARnold_rig_v04:nurbsCircle27
+    100128: ARnold_rig_v04:nurbsCircle3
+    100130: ARnold_rig_v04:nurbsCircle4
+    100132: ARnold_rig_v04:nurbsCircle5
+    100134: ARnold_rig_v04:nurbsCircle6
+    100136: ARnold_rig_v04:nurbsCircle7
+    100138: ARnold_rig_v04:nurbsCircle8
+    100140: //RootNode
+    100142: Custom
+    100144: FBX
+    100146: pCube1
+    400000: ARnold_rig_v04:Beagle
+    400002: ARnold_rig_v04:Bip002 Head
+    400004: ARnold_rig_v04:Bip002 L Calf
+    400006: ARnold_rig_v04:Bip002 L Clavicle
+    400008: ARnold_rig_v04:Bip002 L Foot
+    400010: ARnold_rig_v04:Bip002 L Forearm
+    400012: ARnold_rig_v04:Bip002 L Hand
+    400014: ARnold_rig_v04:Bip002 L HorseLink
+    400016: ARnold_rig_v04:Bip002 L Thigh
+    400018: ARnold_rig_v04:Bip002 L UpperArm
+    400020: ARnold_rig_v04:Bip002 Neck
+    400022: ARnold_rig_v04:Bip002 Pelvis
+    400024: ARnold_rig_v04:Bip002 R Calf
+    400026: ARnold_rig_v04:Bip002 R Clavicle
+    400028: ARnold_rig_v04:Bip002 R Foot
+    400030: ARnold_rig_v04:Bip002 R Forearm
+    400032: ARnold_rig_v04:Bip002 R Hand
+    400034: ARnold_rig_v04:Bip002 R HorseLink
+    400036: ARnold_rig_v04:Bip002 R Thigh
+    400038: ARnold_rig_v04:Bip002 R UpperArm
+    400040: ARnold_rig_v04:Bip002 Spine
+    400042: ARnold_rig_v04:Bip002 Spine1
+    400044: ARnold_rig_v04:Bip002 Spine2
+    400046: ARnold_rig_v04:Bip002 Tail
+    400048: ARnold_rig_v04:Bip003
+    400050: ARnold_rig_v04:Bip003 Footsteps
+    400052: ARnold_rig_v04:Bip003 HeadNub
+    400054: ARnold_rig_v04:Bip003 L Toe0
+    400056: ARnold_rig_v04:Bip003 L Toe0Nub
+    400058: ARnold_rig_v04:Bip003 Ponytail1
+    400060: ARnold_rig_v04:Bip003 Ponytail1Nub
+    400062: ARnold_rig_v04:Bip003 Ponytail2
+    400064: ARnold_rig_v04:Bip003 Ponytail2Nub
+    400066: ARnold_rig_v04:Bip003 R Toe0
+    400068: ARnold_rig_v04:Bip003 R Toe0Nub
+    400070: ARnold_rig_v04:Bip003 Tail1
+    400072: ARnold_rig_v04:Bip003 TailNub
+    400074: ARnold_rig_v04:body_ctl
+    400076: ARnold_rig_v04:Bone005
+    400078: ARnold_rig_v04:Bone006
+    400080: ARnold_rig_v04:EarRightBase001
+    400082: ARnold_rig_v04:EarRightBase002
+    400084: ARnold_rig_v04:EarRightMiddle001
+    400086: ARnold_rig_v04:EarRightMiddle002
+    400088: ARnold_rig_v04:nurbsCircle1
+    400090: ARnold_rig_v04:nurbsCircle10
+    400092: ARnold_rig_v04:nurbsCircle11
+    400094: ARnold_rig_v04:nurbsCircle12
+    400096: ARnold_rig_v04:nurbsCircle13
+    400098: ARnold_rig_v04:nurbsCircle14
+    400100: ARnold_rig_v04:nurbsCircle15
+    400102: ARnold_rig_v04:nurbsCircle16
+    400104: ARnold_rig_v04:nurbsCircle17
+    400106: ARnold_rig_v04:nurbsCircle18
+    400108: ARnold_rig_v04:nurbsCircle19
+    400110: ARnold_rig_v04:nurbsCircle2
+    400112: ARnold_rig_v04:nurbsCircle20
+    400114: ARnold_rig_v04:nurbsCircle21
+    400116: ARnold_rig_v04:nurbsCircle22
+    400118: ARnold_rig_v04:nurbsCircle23
+    400120: ARnold_rig_v04:nurbsCircle24
+    400122: ARnold_rig_v04:nurbsCircle25
+    400124: ARnold_rig_v04:nurbsCircle26
+    400126: ARnold_rig_v04:nurbsCircle27
+    400128: ARnold_rig_v04:nurbsCircle3
+    400130: ARnold_rig_v04:nurbsCircle4
+    400132: ARnold_rig_v04:nurbsCircle5
+    400134: ARnold_rig_v04:nurbsCircle6
+    400136: ARnold_rig_v04:nurbsCircle7
+    400138: ARnold_rig_v04:nurbsCircle8
+    400140: //RootNode
+    400142: Custom
+    400144: FBX
+    400146: pCube1
+    2300000: pCube1
+    3300000: pCube1
+    4300000: pCube1
+    4300002: ARnold_rig_v04:Beagle
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: ARnold_rig_v04:Beagle
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

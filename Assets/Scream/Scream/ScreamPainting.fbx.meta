@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 68eaa82b15a10485984c52bbaeaf219d
+timeCreated: 1478352340
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Boardwalk
+    100002: BoardwalkCollection
+    100004: BottomRail
+    100006: Column1
+    100008: Column2
+    100010: Column3
+    100012: Ground
+    100014: group
+    100016: group1
+    100018: group3
+    100020: group4
+    100022: kehys
+    100024: pasted__group
+    100026: pasted__pasted__pPlane1
+    100028: pasted__pCube2
+    100030: pasted__pPlane1
+    100032: pCube1
+    100034: pCube2
+    100036: pCube3
+    100038: persp1
+    100040: pPlane1
+    100042: pSphere8
+    100044: ReferenceImage
+    100046: //RootNode
+    100048: TopRail
+    400000: Boardwalk
+    400002: BoardwalkCollection
+    400004: BottomRail
+    400006: Column1
+    400008: Column2
+    400010: Column3
+    400012: Ground
+    400014: group
+    400016: group1
+    400018: group3
+    400020: group4
+    400022: kehys
+    400024: pasted__group
+    400026: pasted__pasted__pPlane1
+    400028: pasted__pCube2
+    400030: pasted__pPlane1
+    400032: pCube1
+    400034: pCube2
+    400036: pCube3
+    400038: persp1
+    400040: pPlane1
+    400042: pSphere8
+    400044: ReferenceImage
+    400046: //RootNode
+    400048: TopRail
+    2300000: Boardwalk
+    2300002: BottomRail
+    2300004: Column1
+    2300006: Column2
+    2300008: Column3
+    2300010: Ground
+    2300012: kehys
+    2300014: pasted__pasted__pPlane1
+    2300016: pasted__pCube2
+    2300018: pasted__pPlane1
+    2300020: pCube1
+    2300022: pCube2
+    2300024: pCube3
+    2300026: pPlane1
+    2300028: pSphere8
+    2300030: ReferenceImage
+    2300032: TopRail
+    3300000: Boardwalk
+    3300002: BottomRail
+    3300004: Column1
+    3300006: Column2
+    3300008: Column3
+    3300010: Ground
+    3300012: kehys
+    3300014: pasted__pasted__pPlane1
+    3300016: pasted__pCube2
+    3300018: pasted__pPlane1
+    3300020: pCube1
+    3300022: pCube2
+    3300024: pCube3
+    3300026: pPlane1
+    3300028: pSphere8
+    3300030: ReferenceImage
+    3300032: TopRail
+    4300000: ReferenceImage
+    4300002: kehys
+    4300004: BottomRail
+    4300006: Column1
+    4300008: pCube1
+    4300010: pPlane1
+    4300012: pSphere8
+    4300014: Ground
+    4300016: Column3
+    4300018: TopRail
+    4300020: Boardwalk
+    4300022: Column2
+    4300024: pCube2
+    4300026: pasted__pCube2
+    4300028: pasted__pasted__pPlane1
+    4300030: pasted__pPlane1
+    4300032: pCube3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

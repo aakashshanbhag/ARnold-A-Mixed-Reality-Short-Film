@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: 2a9b4ceba14abd840bcc22b505db30cd
+timeCreated: 1489966956
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ARnold_rig:Beagle
+    100002: ARnold_rig:Bip002 Head
+    100004: ARnold_rig:Bip002 L Calf
+    100006: ARnold_rig:Bip002 L Clavicle
+    100008: ARnold_rig:Bip002 L Foot
+    100010: ARnold_rig:Bip002 L Forearm
+    100012: ARnold_rig:Bip002 L Hand
+    100014: ARnold_rig:Bip002 L HorseLink
+    100016: ARnold_rig:Bip002 L Thigh
+    100018: ARnold_rig:Bip002 L UpperArm
+    100020: ARnold_rig:Bip002 Neck
+    100022: ARnold_rig:Bip002 Pelvis
+    100024: ARnold_rig:Bip002 R Calf
+    100026: ARnold_rig:Bip002 R Clavicle
+    100028: ARnold_rig:Bip002 R Foot
+    100030: ARnold_rig:Bip002 R Forearm
+    100032: ARnold_rig:Bip002 R Hand
+    100034: ARnold_rig:Bip002 R HorseLink
+    100036: ARnold_rig:Bip002 R Thigh
+    100038: ARnold_rig:Bip002 R UpperArm
+    100040: ARnold_rig:Bip002 Spine
+    100042: ARnold_rig:Bip002 Spine1
+    100044: ARnold_rig:Bip002 Spine2
+    100046: ARnold_rig:Bip002 Tail
+    100048: ARnold_rig:Bip003
+    100050: ARnold_rig:Bip003 Footsteps
+    100052: ARnold_rig:Bip003 HeadNub
+    100054: ARnold_rig:Bip003 L Toe0
+    100056: ARnold_rig:Bip003 L Toe0Nub
+    100058: ARnold_rig:Bip003 Ponytail1
+    100060: ARnold_rig:Bip003 Ponytail1Nub
+    100062: ARnold_rig:Bip003 Ponytail2
+    100064: ARnold_rig:Bip003 Ponytail2Nub
+    100066: ARnold_rig:Bip003 R Toe0
+    100068: ARnold_rig:Bip003 R Toe0Nub
+    100070: ARnold_rig:Bip003 Tail1
+    100072: ARnold_rig:Bip003 TailNub
+    100074: ARnold_rig:Bone005
+    100076: ARnold_rig:Bone006
+    100078: ARnold_rig:EarRightBase001
+    100080: ARnold_rig:EarRightBase002
+    100082: ARnold_rig:EarRightMiddle001
+    100084: ARnold_rig:EarRightMiddle002
+    100086: Beagle
+    100088: Bip002 Head
+    100090: Bip002 L Calf
+    100092: Bip002 L Clavicle
+    100094: Bip002 L Foot
+    100096: Bip002 L Forearm
+    100098: Bip002 L Hand
+    100100: Bip002 L HorseLink
+    100102: Bip002 L Thigh
+    100104: Bip002 L UpperArm
+    100106: Bip002 Neck
+    100108: Bip002 Pelvis
+    100110: Bip002 R Calf
+    100112: Bip002 R Clavicle
+    100114: Bip002 R Foot
+    100116: Bip002 R Forearm
+    100118: Bip002 R Hand
+    100120: Bip002 R HorseLink
+    100122: Bip002 R Thigh
+    100124: Bip002 R UpperArm
+    100126: Bip002 Spine
+    100128: Bip002 Spine1
+    100130: Bip002 Spine2
+    100132: Bip002 Tail
+    100134: Bip003
+    100136: Bip003 Footsteps
+    100138: Bip003 HeadNub
+    100140: Bip003 L Toe0
+    100142: Bip003 L Toe0Nub
+    100144: Bip003 Ponytail1
+    100146: Bip003 Ponytail1Nub
+    100148: Bip003 Ponytail2
+    100150: Bip003 Ponytail2Nub
+    100152: Bip003 R Toe0
+    100154: Bip003 R Toe0Nub
+    100156: Bip003 Tail1
+    100158: Bip003 TailNub
+    100160: blackbox1
+    100162: Bone005
+    100164: Bone006
+    100166: centerDog
+    100168: Door1
+    100170: EarRightBase001
+    100172: EarRightBase002
+    100174: EarRightMiddle001
+    100176: EarRightMiddle002
+    100178: Floor
+    100180: group
+    100182: group1
+    100184: nurbsCircle1
+    100186: OutdoorSphere
+    100188: pasted__Door
+    100190: pasted__pCube1
+    100192: pasted__pCube1 1
+    100194: pasted__pCube2
+    100196: pasted__pCube3
+    100198: pasted__pCube4
+    100200: pasted__pSphere1
+    100202: pasted__transform1
+    100204: pasted__transform2
+    100206: pasted__transform3
+    100208: pasted__transform4
+    100210: pasted__transform5
+    100212: pCube1
+    100214: pCube2
+    100216: pCube3
+    100218: pCube4
+    100220: pCube5
+    100222: pCube6
+    100224: //RootNode
+    100226: transform1
+    100228: transform2
+    100230: transform3
+    100232: transform4
+    100234: transform5
+    100236: transform6
+    100238: transform7
+    100240: transform8
+    400000: ARnold_rig:Beagle
+    400002: ARnold_rig:Bip002 Head
+    400004: ARnold_rig:Bip002 L Calf
+    400006: ARnold_rig:Bip002 L Clavicle
+    400008: ARnold_rig:Bip002 L Foot
+    400010: ARnold_rig:Bip002 L Forearm
+    400012: ARnold_rig:Bip002 L Hand
+    400014: ARnold_rig:Bip002 L HorseLink
+    400016: ARnold_rig:Bip002 L Thigh
+    400018: ARnold_rig:Bip002 L UpperArm
+    400020: ARnold_rig:Bip002 Neck
+    400022: ARnold_rig:Bip002 Pelvis
+    400024: ARnold_rig:Bip002 R Calf
+    400026: ARnold_rig:Bip002 R Clavicle
+    400028: ARnold_rig:Bip002 R Foot
+    400030: ARnold_rig:Bip002 R Forearm
+    400032: ARnold_rig:Bip002 R Hand
+    400034: ARnold_rig:Bip002 R HorseLink
+    400036: ARnold_rig:Bip002 R Thigh
+    400038: ARnold_rig:Bip002 R UpperArm
+    400040: ARnold_rig:Bip002 Spine
+    400042: ARnold_rig:Bip002 Spine1
+    400044: ARnold_rig:Bip002 Spine2
+    400046: ARnold_rig:Bip002 Tail
+    400048: ARnold_rig:Bip003
+    400050: ARnold_rig:Bip003 Footsteps
+    400052: ARnold_rig:Bip003 HeadNub
+    400054: ARnold_rig:Bip003 L Toe0
+    400056: ARnold_rig:Bip003 L Toe0Nub
+    400058: ARnold_rig:Bip003 Ponytail1
+    400060: ARnold_rig:Bip003 Ponytail1Nub
+    400062: ARnold_rig:Bip003 Ponytail2
+    400064: ARnold_rig:Bip003 Ponytail2Nub
+    400066: ARnold_rig:Bip003 R Toe0
+    400068: ARnold_rig:Bip003 R Toe0Nub
+    400070: ARnold_rig:Bip003 Tail1
+    400072: ARnold_rig:Bip003 TailNub
+    400074: ARnold_rig:Bone005
+    400076: ARnold_rig:Bone006
+    400078: ARnold_rig:EarRightBase001
+    400080: ARnold_rig:EarRightBase002
+    400082: ARnold_rig:EarRightMiddle001
+    400084: ARnold_rig:EarRightMiddle002
+    400086: Beagle
+    400088: Bip002 Head
+    400090: Bip002 L Calf
+    400092: Bip002 L Clavicle
+    400094: Bip002 L Foot
+    400096: Bip002 L Forearm
+    400098: Bip002 L Hand
+    400100: Bip002 L HorseLink
+    400102: Bip002 L Thigh
+    400104: Bip002 L UpperArm
+    400106: Bip002 Neck
+    400108: Bip002 Pelvis
+    400110: Bip002 R Calf
+    400112: Bip002 R Clavicle
+    400114: Bip002 R Foot
+    400116: Bip002 R Forearm
+    400118: Bip002 R Hand
+    400120: Bip002 R HorseLink
+    400122: Bip002 R Thigh
+    400124: Bip002 R UpperArm
+    400126: Bip002 Spine
+    400128: Bip002 Spine1
+    400130: Bip002 Spine2
+    400132: Bip002 Tail
+    400134: Bip003
+    400136: Bip003 Footsteps
+    400138: Bip003 HeadNub
+    400140: Bip003 L Toe0
+    400142: Bip003 L Toe0Nub
+    400144: Bip003 Ponytail1
+    400146: Bip003 Ponytail1Nub
+    400148: Bip003 Ponytail2
+    400150: Bip003 Ponytail2Nub
+    400152: Bip003 R Toe0
+    400154: Bip003 R Toe0Nub
+    400156: Bip003 Tail1
+    400158: Bip003 TailNub
+    400160: blackbox1
+    400162: Bone005
+    400164: Bone006
+    400166: centerDog
+    400168: Door1
+    400170: EarRightBase001
+    400172: EarRightBase002
+    400174: EarRightMiddle001
+    400176: EarRightMiddle002
+    400178: Floor
+    400180: group
+    400182: group1
+    400184: nurbsCircle1
+    400186: OutdoorSphere
+    400188: pasted__Door
+    400190: pasted__pCube1
+    400192: pasted__pCube1 1
+    400194: pasted__pCube2
+    400196: pasted__pCube3
+    400198: pasted__pCube4
+    400200: pasted__pSphere1
+    400202: pasted__transform1
+    400204: pasted__transform2
+    400206: pasted__transform3
+    400208: pasted__transform4
+    400210: pasted__transform5
+    400212: pCube1
+    400214: pCube2
+    400216: pCube3
+    400218: pCube4
+    400220: pCube5
+    400222: pCube6
+    400224: //RootNode
+    400226: transform1
+    400228: transform2
+    400230: transform3
+    400232: transform4
+    400234: transform5
+    400236: transform6
+    400238: transform7
+    400240: transform8
+    2300000: Beagle
+    2300002: blackbox1
+    2300004: Door1
+    2300006: Floor
+    2300008: OutdoorSphere
+    3300000: Beagle
+    3300002: blackbox1
+    3300004: Door1
+    3300006: Floor
+    3300008: OutdoorSphere
+    4300000: Beagle
+    4300002: Door1
+    4300004: Floor
+    4300006: OutdoorSphere
+    4300008: blackbox1
+    4300010: ARnold_rig:Beagle
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: ARnold_rig:Beagle
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

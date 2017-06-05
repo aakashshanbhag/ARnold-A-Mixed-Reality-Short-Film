@@ -1,0 +1,1652 @@
+fileFormatVersion: 2
+guid: f700dcc94b425b24f9ba4b070b831fab
+timeCreated: 1489992837
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ARnold_Scene4_v03:Angry
+    100004: ARnold_Scene4_v03:ARnold_demoday:Door1
+    100006: ARnold_Scene4_v03:ARnold_demoday:place3dTexture1
+    100008: ARnold_Scene4_v03:ARnold_rig_v04:Beagle
+    100010: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 Head
+    100012: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 L Calf
+    100014: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 L Clavicle
+    100016: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 L Foot
+    100018: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 L Forearm
+    100020: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 L Hand
+    100022: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 L HorseLink
+    100024: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 L Thigh
+    100026: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 L UpperArm
+    100028: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 Neck
+    100030: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 Pelvis
+    100032: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 R Calf
+    100034: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 R Clavicle
+    100036: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 R Foot
+    100038: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 R Forearm
+    100040: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 R Hand
+    100042: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 R HorseLink
+    100044: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 R Thigh
+    100046: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 R UpperArm
+    100048: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 Spine
+    100050: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 Spine1
+    100052: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 Spine2
+    100054: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 Tail
+    100056: ARnold_Scene4_v03:ARnold_rig_v04:Bip003
+    100058: ARnold_Scene4_v03:ARnold_rig_v04:Bip003 Footsteps
+    100060: ARnold_Scene4_v03:ARnold_rig_v04:Bip003 HeadNub
+    100062: ARnold_Scene4_v03:ARnold_rig_v04:Bip003 L Toe0
+    100064: ARnold_Scene4_v03:ARnold_rig_v04:Bip003 L Toe0Nub
+    100066: ARnold_Scene4_v03:ARnold_rig_v04:Bip003 Ponytail1
+    100068: ARnold_Scene4_v03:ARnold_rig_v04:Bip003 Ponytail1Nub
+    100070: ARnold_Scene4_v03:ARnold_rig_v04:Bip003 Ponytail2
+    100072: ARnold_Scene4_v03:ARnold_rig_v04:Bip003 Ponytail2Nub
+    100074: ARnold_Scene4_v03:ARnold_rig_v04:Bip003 R Toe0
+    100076: ARnold_Scene4_v03:ARnold_rig_v04:Bip003 R Toe0Nub
+    100078: ARnold_Scene4_v03:ARnold_rig_v04:Bip003 Tail1
+    100080: ARnold_Scene4_v03:ARnold_rig_v04:Bip003 TailNub
+    100082: ARnold_Scene4_v03:ARnold_rig_v04:body_ctl
+    100084: ARnold_Scene4_v03:ARnold_rig_v04:Bone005
+    100086: ARnold_Scene4_v03:ARnold_rig_v04:Bone006
+    100088: ARnold_Scene4_v03:ARnold_rig_v04:EarRightBase001
+    100090: ARnold_Scene4_v03:ARnold_rig_v04:EarRightBase002
+    100092: ARnold_Scene4_v03:ARnold_rig_v04:EarRightMiddle001
+    100094: ARnold_Scene4_v03:ARnold_rig_v04:EarRightMiddle002
+    100096: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle1
+    100098: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle10
+    100100: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle11
+    100102: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle12
+    100104: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle13
+    100106: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle14
+    100108: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle15
+    100110: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle16
+    100112: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle17
+    100114: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle18
+    100116: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle19
+    100118: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle2
+    100120: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle20
+    100122: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle21
+    100124: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle22
+    100126: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle23
+    100128: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle24
+    100130: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle25
+    100132: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle26
+    100134: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle27
+    100136: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle3
+    100138: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle4
+    100140: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle5
+    100142: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle6
+    100144: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle7
+    100146: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle8
+    100148: ARnold_Scene4_v03:Beagle
+    100150: ARnold_Scene4_v03:Bip002 Head
+    100152: ARnold_Scene4_v03:Bip002 L Calf
+    100154: ARnold_Scene4_v03:Bip002 L Clavicle
+    100156: ARnold_Scene4_v03:Bip002 L Foot
+    100158: ARnold_Scene4_v03:Bip002 L Forearm
+    100160: ARnold_Scene4_v03:Bip002 L Hand
+    100162: ARnold_Scene4_v03:Bip002 L HorseLink
+    100164: ARnold_Scene4_v03:Bip002 L Thigh
+    100166: ARnold_Scene4_v03:Bip002 L UpperArm
+    100168: ARnold_Scene4_v03:Bip002 Neck
+    100170: ARnold_Scene4_v03:Bip002 Pelvis
+    100172: ARnold_Scene4_v03:Bip002 R Calf
+    100174: ARnold_Scene4_v03:Bip002 R Clavicle
+    100176: ARnold_Scene4_v03:Bip002 R Foot
+    100178: ARnold_Scene4_v03:Bip002 R Forearm
+    100180: ARnold_Scene4_v03:Bip002 R Hand
+    100182: ARnold_Scene4_v03:Bip002 R HorseLink
+    100184: ARnold_Scene4_v03:Bip002 R Thigh
+    100186: ARnold_Scene4_v03:Bip002 R UpperArm
+    100188: ARnold_Scene4_v03:Bip002 Spine
+    100190: ARnold_Scene4_v03:Bip002 Spine1
+    100192: ARnold_Scene4_v03:Bip002 Spine2
+    100194: ARnold_Scene4_v03:Bip002 Tail
+    100196: ARnold_Scene4_v03:Bip003
+    100198: ARnold_Scene4_v03:Bip003 Footsteps
+    100200: ARnold_Scene4_v03:Bip003 HeadNub
+    100202: ARnold_Scene4_v03:Bip003 L Toe0
+    100204: ARnold_Scene4_v03:Bip003 L Toe0Nub
+    100206: ARnold_Scene4_v03:Bip003 Ponytail1
+    100208: ARnold_Scene4_v03:Bip003 Ponytail1Nub
+    100210: ARnold_Scene4_v03:Bip003 Ponytail2
+    100212: ARnold_Scene4_v03:Bip003 Ponytail2Nub
+    100214: ARnold_Scene4_v03:Bip003 R Toe0
+    100216: ARnold_Scene4_v03:Bip003 R Toe0Nub
+    100218: ARnold_Scene4_v03:Bip003 Tail1
+    100220: ARnold_Scene4_v03:Bip003 TailNub
+    100222: ARnold_Scene4_v03:Bone005
+    100224: ARnold_Scene4_v03:Bone006
+    100226: ARnold_Scene4_v03:book1
+    100228: ARnold_Scene4_v03:book1 1
+    100230: ARnold_Scene4_v03:book1 2
+    100232: ARnold_Scene4_v03:book1 3
+    100234: ARnold_Scene4_v03:book1 4
+    100236: ARnold_Scene4_v03:book1 5
+    100238: ARnold_Scene4_v03:book1 6
+    100240: ARnold_Scene4_v03:book1 7
+    100242: ARnold_Scene4_v03:book1 8
+    100244: ARnold_Scene4_v03:book2
+    100246: ARnold_Scene4_v03:book_outer
+    100248: ARnold_Scene4_v03:book_outer1
+    100250: ARnold_Scene4_v03:book_outer2
+    100252: ARnold_Scene4_v03:book_outer3
+    100254: ARnold_Scene4_v03:book_outer4
+    100256: ARnold_Scene4_v03:book_outer5
+    100258: ARnold_Scene4_v03:book_outer6
+    100260: ARnold_Scene4_v03:book_outer7
+    100262: ARnold_Scene4_v03:book_outer8
+    100264: ARnold_Scene4_v03:book_outer9
+    100266: ARnold_Scene4_v03:Curious
+    100268: ARnold_Scene4_v03:EarRightBase001
+    100270: ARnold_Scene4_v03:EarRightBase002
+    100272: ARnold_Scene4_v03:EarRightMiddle001
+    100274: ARnold_Scene4_v03:EarRightMiddle002
+    100276: ARnold_Scene4_v03:ground_Proxy
+    100278: ARnold_Scene4_v03:group
+    100280: ARnold_Scene4_v03:group1
+    100282: ARnold_Scene4_v03:group10
+    100284: ARnold_Scene4_v03:group2
+    100286: ARnold_Scene4_v03:group3
+    100288: ARnold_Scene4_v03:group4
+    100290: ARnold_Scene4_v03:group5
+    100292: ARnold_Scene4_v03:group6
+    100294: ARnold_Scene4_v03:group7
+    100296: ARnold_Scene4_v03:group8
+    100298: ARnold_Scene4_v03:group9
+    100300: ARnold_Scene4_v03:pasted__group1
+    100302: ARnold_Scene4_v03:pasted__group2
+    100304: ARnold_Scene4_v03:pasted__group2 1
+    100306: ARnold_Scene4_v03:pasted__group2 2
+    100308: ARnold_Scene4_v03:pasted__group2 3
+    100310: ARnold_Scene4_v03:pasted__group2 4
+    100312: ARnold_Scene4_v03:pasted__group2 5
+    100314: ARnold_Scene4_v03:pasted__group2 6
+    100316: ARnold_Scene4_v03:pasted__pasted__group1
+    100318: ARnold_Scene4_v03:pasted__pasted__group1 1
+    100320: ARnold_Scene4_v03:pasted__pasted__group1 2
+    100322: ARnold_Scene4_v03:pasted__pasted__group1 3
+    100324: ARnold_Scene4_v03:pasted__pasted__group1 4
+    100326: ARnold_Scene4_v03:pasted__pasted__group1 5
+    100328: ARnold_Scene4_v03:pasted__pasted__group1 6
+    100330: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1
+    100332: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1 1
+    100334: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1 2
+    100336: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1 3
+    100338: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1 4
+    100340: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1 5
+    100342: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1 6
+    100344: ARnold_Scene4_v03:pasted__pasted__pCube1
+    100346: ARnold_Scene4_v03:pasted__pCube1
+    100348: ARnold_Scene4_v03:pCube1
+    100350: ARnold_Scene4_v03:pCube2
+    100352: ARnold_Scene4_v03:pCube2 1
+    100354: ARnold_Scene4_v03:pCube2 2
+    100356: ARnold_Scene4_v03:pCube2 3
+    100358: ARnold_Scene4_v03:pCube2 4
+    100360: ARnold_Scene4_v03:pCube2 5
+    100362: ARnold_Scene4_v03:pCube2 6
+    100364: ARnold_Scene4_v03:pCube2 7
+    100366: ARnold_Scene4_v03:pCube2 8
+    100368: ARnold_Scene4_v03:pCube2 9
+    100370: ARnold_Scene4_v03:pCube3
+    100372: ARnold_Scene4_v03:pCube3 1
+    100374: ARnold_Scene4_v03:pCube3 2
+    100376: ARnold_Scene4_v03:pCube3 3
+    100378: ARnold_Scene4_v03:pCube3 4
+    100380: ARnold_Scene4_v03:pCube3 5
+    100382: ARnold_Scene4_v03:pCube3 6
+    100384: ARnold_Scene4_v03:pCube3 7
+    100386: ARnold_Scene4_v03:pCube3 8
+    100388: ARnold_Scene4_v03:pCube3 9
+    100390: ARnold_Scene4_v03:pPlane1
+    100392: ARnold_Scene4_v03:pPlane1 1
+    100394: ARnold_Scene4_v03:pPlane1 2
+    100396: ARnold_Scene4_v03:pPlane1 3
+    100398: ARnold_Scene4_v03:pPlane1 4
+    100400: ARnold_Scene4_v03:pPlane1 5
+    100402: ARnold_Scene4_v03:pPlane1 6
+    100404: ARnold_Scene4_v03:pPlane1 7
+    100406: ARnold_Scene4_v03:pPlane1 8
+    100408: ARnold_Scene4_v03:pPlane1 9
+    100410: ARnold_Scene4_v03:pPlane10
+    100412: ARnold_Scene4_v03:pPlane10 1
+    100414: ARnold_Scene4_v03:pPlane10 2
+    100416: ARnold_Scene4_v03:pPlane10 3
+    100418: ARnold_Scene4_v03:pPlane10 4
+    100420: ARnold_Scene4_v03:pPlane10 5
+    100422: ARnold_Scene4_v03:pPlane10 6
+    100424: ARnold_Scene4_v03:pPlane10 7
+    100426: ARnold_Scene4_v03:pPlane10 8
+    100428: ARnold_Scene4_v03:pPlane10 9
+    100430: ARnold_Scene4_v03:pPlane11
+    100432: ARnold_Scene4_v03:pPlane11 1
+    100434: ARnold_Scene4_v03:pPlane11 2
+    100436: ARnold_Scene4_v03:pPlane11 3
+    100438: ARnold_Scene4_v03:pPlane11 4
+    100440: ARnold_Scene4_v03:pPlane11 5
+    100442: ARnold_Scene4_v03:pPlane11 6
+    100444: ARnold_Scene4_v03:pPlane11 7
+    100446: ARnold_Scene4_v03:pPlane11 8
+    100448: ARnold_Scene4_v03:pPlane11 9
+    100450: ARnold_Scene4_v03:pPlane12
+    100452: ARnold_Scene4_v03:pPlane12 1
+    100454: ARnold_Scene4_v03:pPlane12 2
+    100456: ARnold_Scene4_v03:pPlane12 3
+    100458: ARnold_Scene4_v03:pPlane12 4
+    100460: ARnold_Scene4_v03:pPlane12 5
+    100462: ARnold_Scene4_v03:pPlane12 6
+    100464: ARnold_Scene4_v03:pPlane12 7
+    100466: ARnold_Scene4_v03:pPlane12 8
+    100468: ARnold_Scene4_v03:pPlane12 9
+    100470: ARnold_Scene4_v03:pPlane13
+    100472: ARnold_Scene4_v03:pPlane13 1
+    100474: ARnold_Scene4_v03:pPlane13 2
+    100476: ARnold_Scene4_v03:pPlane13 3
+    100478: ARnold_Scene4_v03:pPlane13 4
+    100480: ARnold_Scene4_v03:pPlane13 5
+    100482: ARnold_Scene4_v03:pPlane13 6
+    100484: ARnold_Scene4_v03:pPlane13 7
+    100486: ARnold_Scene4_v03:pPlane13 8
+    100488: ARnold_Scene4_v03:pPlane13 9
+    100490: ARnold_Scene4_v03:pPlane14
+    100492: ARnold_Scene4_v03:pPlane14 1
+    100494: ARnold_Scene4_v03:pPlane14 2
+    100496: ARnold_Scene4_v03:pPlane14 3
+    100498: ARnold_Scene4_v03:pPlane14 4
+    100500: ARnold_Scene4_v03:pPlane14 5
+    100502: ARnold_Scene4_v03:pPlane14 6
+    100504: ARnold_Scene4_v03:pPlane14 7
+    100506: ARnold_Scene4_v03:pPlane14 8
+    100508: ARnold_Scene4_v03:pPlane14 9
+    100510: ARnold_Scene4_v03:pPlane15
+    100512: ARnold_Scene4_v03:pPlane15 1
+    100514: ARnold_Scene4_v03:pPlane15 2
+    100516: ARnold_Scene4_v03:pPlane15 3
+    100518: ARnold_Scene4_v03:pPlane15 4
+    100520: ARnold_Scene4_v03:pPlane15 5
+    100522: ARnold_Scene4_v03:pPlane15 6
+    100524: ARnold_Scene4_v03:pPlane15 7
+    100526: ARnold_Scene4_v03:pPlane15 8
+    100528: ARnold_Scene4_v03:pPlane15 9
+    100530: ARnold_Scene4_v03:pPlane16
+    100532: ARnold_Scene4_v03:pPlane16 1
+    100534: ARnold_Scene4_v03:pPlane16 2
+    100536: ARnold_Scene4_v03:pPlane16 3
+    100538: ARnold_Scene4_v03:pPlane16 4
+    100540: ARnold_Scene4_v03:pPlane16 5
+    100542: ARnold_Scene4_v03:pPlane16 6
+    100544: ARnold_Scene4_v03:pPlane16 7
+    100546: ARnold_Scene4_v03:pPlane16 8
+    100548: ARnold_Scene4_v03:pPlane16 9
+    100550: ARnold_Scene4_v03:pPlane17
+    100552: ARnold_Scene4_v03:pPlane17 1
+    100554: ARnold_Scene4_v03:pPlane17 2
+    100556: ARnold_Scene4_v03:pPlane17 3
+    100558: ARnold_Scene4_v03:pPlane17 4
+    100560: ARnold_Scene4_v03:pPlane17 5
+    100562: ARnold_Scene4_v03:pPlane17 6
+    100564: ARnold_Scene4_v03:pPlane17 7
+    100566: ARnold_Scene4_v03:pPlane17 8
+    100568: ARnold_Scene4_v03:pPlane17 9
+    100570: ARnold_Scene4_v03:pPlane18
+    100572: ARnold_Scene4_v03:pPlane18 1
+    100574: ARnold_Scene4_v03:pPlane18 2
+    100576: ARnold_Scene4_v03:pPlane18 3
+    100578: ARnold_Scene4_v03:pPlane18 4
+    100580: ARnold_Scene4_v03:pPlane18 5
+    100582: ARnold_Scene4_v03:pPlane18 6
+    100584: ARnold_Scene4_v03:pPlane18 7
+    100586: ARnold_Scene4_v03:pPlane18 8
+    100588: ARnold_Scene4_v03:pPlane18 9
+    100590: ARnold_Scene4_v03:pPlane19
+    100592: ARnold_Scene4_v03:pPlane19 1
+    100594: ARnold_Scene4_v03:pPlane19 2
+    100596: ARnold_Scene4_v03:pPlane19 3
+    100598: ARnold_Scene4_v03:pPlane19 4
+    100600: ARnold_Scene4_v03:pPlane19 5
+    100602: ARnold_Scene4_v03:pPlane19 6
+    100604: ARnold_Scene4_v03:pPlane19 7
+    100606: ARnold_Scene4_v03:pPlane19 8
+    100608: ARnold_Scene4_v03:pPlane19 9
+    100610: ARnold_Scene4_v03:pPlane2
+    100612: ARnold_Scene4_v03:pPlane2 1
+    100614: ARnold_Scene4_v03:pPlane2 2
+    100616: ARnold_Scene4_v03:pPlane2 3
+    100618: ARnold_Scene4_v03:pPlane2 4
+    100620: ARnold_Scene4_v03:pPlane2 5
+    100622: ARnold_Scene4_v03:pPlane2 6
+    100624: ARnold_Scene4_v03:pPlane2 7
+    100626: ARnold_Scene4_v03:pPlane2 8
+    100628: ARnold_Scene4_v03:pPlane2 9
+    100630: ARnold_Scene4_v03:pPlane20
+    100632: ARnold_Scene4_v03:pPlane20 1
+    100634: ARnold_Scene4_v03:pPlane20 2
+    100636: ARnold_Scene4_v03:pPlane20 3
+    100638: ARnold_Scene4_v03:pPlane20 4
+    100640: ARnold_Scene4_v03:pPlane20 5
+    100642: ARnold_Scene4_v03:pPlane20 6
+    100644: ARnold_Scene4_v03:pPlane20 7
+    100646: ARnold_Scene4_v03:pPlane20 8
+    100648: ARnold_Scene4_v03:pPlane20 9
+    100650: ARnold_Scene4_v03:pPlane21
+    100652: ARnold_Scene4_v03:pPlane21 1
+    100654: ARnold_Scene4_v03:pPlane21 2
+    100656: ARnold_Scene4_v03:pPlane21 3
+    100658: ARnold_Scene4_v03:pPlane21 4
+    100660: ARnold_Scene4_v03:pPlane21 5
+    100662: ARnold_Scene4_v03:pPlane21 6
+    100664: ARnold_Scene4_v03:pPlane21 7
+    100666: ARnold_Scene4_v03:pPlane21 8
+    100668: ARnold_Scene4_v03:pPlane21 9
+    100670: ARnold_Scene4_v03:pPlane3
+    100672: ARnold_Scene4_v03:pPlane3 1
+    100674: ARnold_Scene4_v03:pPlane3 2
+    100676: ARnold_Scene4_v03:pPlane3 3
+    100678: ARnold_Scene4_v03:pPlane3 4
+    100680: ARnold_Scene4_v03:pPlane3 5
+    100682: ARnold_Scene4_v03:pPlane3 6
+    100684: ARnold_Scene4_v03:pPlane3 7
+    100686: ARnold_Scene4_v03:pPlane3 8
+    100688: ARnold_Scene4_v03:pPlane3 9
+    100690: ARnold_Scene4_v03:pPlane4
+    100692: ARnold_Scene4_v03:pPlane4 1
+    100694: ARnold_Scene4_v03:pPlane4 2
+    100696: ARnold_Scene4_v03:pPlane4 3
+    100698: ARnold_Scene4_v03:pPlane4 4
+    100700: ARnold_Scene4_v03:pPlane4 5
+    100702: ARnold_Scene4_v03:pPlane4 6
+    100704: ARnold_Scene4_v03:pPlane4 7
+    100706: ARnold_Scene4_v03:pPlane4 8
+    100708: ARnold_Scene4_v03:pPlane4 9
+    100710: ARnold_Scene4_v03:pPlane5
+    100712: ARnold_Scene4_v03:pPlane5 1
+    100714: ARnold_Scene4_v03:pPlane5 2
+    100716: ARnold_Scene4_v03:pPlane5 3
+    100718: ARnold_Scene4_v03:pPlane5 4
+    100720: ARnold_Scene4_v03:pPlane5 5
+    100722: ARnold_Scene4_v03:pPlane5 6
+    100724: ARnold_Scene4_v03:pPlane5 7
+    100726: ARnold_Scene4_v03:pPlane5 8
+    100728: ARnold_Scene4_v03:pPlane5 9
+    100730: ARnold_Scene4_v03:pPlane6
+    100732: ARnold_Scene4_v03:pPlane6 1
+    100734: ARnold_Scene4_v03:pPlane6 2
+    100736: ARnold_Scene4_v03:pPlane6 3
+    100738: ARnold_Scene4_v03:pPlane6 4
+    100740: ARnold_Scene4_v03:pPlane6 5
+    100742: ARnold_Scene4_v03:pPlane6 6
+    100744: ARnold_Scene4_v03:pPlane6 7
+    100746: ARnold_Scene4_v03:pPlane6 8
+    100748: ARnold_Scene4_v03:pPlane6 9
+    100750: ARnold_Scene4_v03:pPlane7
+    100752: ARnold_Scene4_v03:pPlane7 1
+    100754: ARnold_Scene4_v03:pPlane7 2
+    100756: ARnold_Scene4_v03:pPlane7 3
+    100758: ARnold_Scene4_v03:pPlane7 4
+    100760: ARnold_Scene4_v03:pPlane7 5
+    100762: ARnold_Scene4_v03:pPlane7 6
+    100764: ARnold_Scene4_v03:pPlane7 7
+    100766: ARnold_Scene4_v03:pPlane7 8
+    100768: ARnold_Scene4_v03:pPlane7 9
+    100770: ARnold_Scene4_v03:pPlane8
+    100772: ARnold_Scene4_v03:pPlane8 1
+    100774: ARnold_Scene4_v03:pPlane8 2
+    100776: ARnold_Scene4_v03:pPlane8 3
+    100778: ARnold_Scene4_v03:pPlane8 4
+    100780: ARnold_Scene4_v03:pPlane8 5
+    100782: ARnold_Scene4_v03:pPlane8 6
+    100784: ARnold_Scene4_v03:pPlane8 7
+    100786: ARnold_Scene4_v03:pPlane8 8
+    100788: ARnold_Scene4_v03:pPlane8 9
+    100790: ARnold_Scene4_v03:pPlane9
+    100792: ARnold_Scene4_v03:pPlane9 1
+    100794: ARnold_Scene4_v03:pPlane9 2
+    100796: ARnold_Scene4_v03:pPlane9 3
+    100798: ARnold_Scene4_v03:pPlane9 4
+    100800: ARnold_Scene4_v03:pPlane9 5
+    100802: ARnold_Scene4_v03:pPlane9 6
+    100804: ARnold_Scene4_v03:pPlane9 7
+    100806: ARnold_Scene4_v03:pPlane9 8
+    100808: ARnold_Scene4_v03:pPlane9 9
+    100810: ARnold_Scene4_v03:Sad
+    100812: ARnold_Scene4_v03:sleep
+    100814: ARnold_Scene4_v03:Smile
+    100816: ARnold_Scene4_v03:stack_prox
+    100818: ARnold_Scene4_v03:Suspicoius
+    100820: ARnold_Scene4_v03:Wink
+    400000: //RootNode
+    400002: ARnold_Scene4_v03:Angry
+    400004: ARnold_Scene4_v03:ARnold_demoday:Door1
+    400006: ARnold_Scene4_v03:ARnold_demoday:place3dTexture1
+    400008: ARnold_Scene4_v03:ARnold_rig_v04:Beagle
+    400010: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 Head
+    400012: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 L Calf
+    400014: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 L Clavicle
+    400016: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 L Foot
+    400018: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 L Forearm
+    400020: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 L Hand
+    400022: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 L HorseLink
+    400024: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 L Thigh
+    400026: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 L UpperArm
+    400028: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 Neck
+    400030: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 Pelvis
+    400032: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 R Calf
+    400034: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 R Clavicle
+    400036: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 R Foot
+    400038: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 R Forearm
+    400040: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 R Hand
+    400042: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 R HorseLink
+    400044: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 R Thigh
+    400046: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 R UpperArm
+    400048: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 Spine
+    400050: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 Spine1
+    400052: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 Spine2
+    400054: ARnold_Scene4_v03:ARnold_rig_v04:Bip002 Tail
+    400056: ARnold_Scene4_v03:ARnold_rig_v04:Bip003
+    400058: ARnold_Scene4_v03:ARnold_rig_v04:Bip003 Footsteps
+    400060: ARnold_Scene4_v03:ARnold_rig_v04:Bip003 HeadNub
+    400062: ARnold_Scene4_v03:ARnold_rig_v04:Bip003 L Toe0
+    400064: ARnold_Scene4_v03:ARnold_rig_v04:Bip003 L Toe0Nub
+    400066: ARnold_Scene4_v03:ARnold_rig_v04:Bip003 Ponytail1
+    400068: ARnold_Scene4_v03:ARnold_rig_v04:Bip003 Ponytail1Nub
+    400070: ARnold_Scene4_v03:ARnold_rig_v04:Bip003 Ponytail2
+    400072: ARnold_Scene4_v03:ARnold_rig_v04:Bip003 Ponytail2Nub
+    400074: ARnold_Scene4_v03:ARnold_rig_v04:Bip003 R Toe0
+    400076: ARnold_Scene4_v03:ARnold_rig_v04:Bip003 R Toe0Nub
+    400078: ARnold_Scene4_v03:ARnold_rig_v04:Bip003 Tail1
+    400080: ARnold_Scene4_v03:ARnold_rig_v04:Bip003 TailNub
+    400082: ARnold_Scene4_v03:ARnold_rig_v04:body_ctl
+    400084: ARnold_Scene4_v03:ARnold_rig_v04:Bone005
+    400086: ARnold_Scene4_v03:ARnold_rig_v04:Bone006
+    400088: ARnold_Scene4_v03:ARnold_rig_v04:EarRightBase001
+    400090: ARnold_Scene4_v03:ARnold_rig_v04:EarRightBase002
+    400092: ARnold_Scene4_v03:ARnold_rig_v04:EarRightMiddle001
+    400094: ARnold_Scene4_v03:ARnold_rig_v04:EarRightMiddle002
+    400096: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle1
+    400098: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle10
+    400100: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle11
+    400102: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle12
+    400104: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle13
+    400106: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle14
+    400108: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle15
+    400110: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle16
+    400112: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle17
+    400114: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle18
+    400116: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle19
+    400118: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle2
+    400120: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle20
+    400122: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle21
+    400124: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle22
+    400126: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle23
+    400128: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle24
+    400130: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle25
+    400132: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle26
+    400134: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle27
+    400136: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle3
+    400138: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle4
+    400140: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle5
+    400142: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle6
+    400144: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle7
+    400146: ARnold_Scene4_v03:ARnold_rig_v04:nurbsCircle8
+    400148: ARnold_Scene4_v03:Beagle
+    400150: ARnold_Scene4_v03:Bip002 Head
+    400152: ARnold_Scene4_v03:Bip002 L Calf
+    400154: ARnold_Scene4_v03:Bip002 L Clavicle
+    400156: ARnold_Scene4_v03:Bip002 L Foot
+    400158: ARnold_Scene4_v03:Bip002 L Forearm
+    400160: ARnold_Scene4_v03:Bip002 L Hand
+    400162: ARnold_Scene4_v03:Bip002 L HorseLink
+    400164: ARnold_Scene4_v03:Bip002 L Thigh
+    400166: ARnold_Scene4_v03:Bip002 L UpperArm
+    400168: ARnold_Scene4_v03:Bip002 Neck
+    400170: ARnold_Scene4_v03:Bip002 Pelvis
+    400172: ARnold_Scene4_v03:Bip002 R Calf
+    400174: ARnold_Scene4_v03:Bip002 R Clavicle
+    400176: ARnold_Scene4_v03:Bip002 R Foot
+    400178: ARnold_Scene4_v03:Bip002 R Forearm
+    400180: ARnold_Scene4_v03:Bip002 R Hand
+    400182: ARnold_Scene4_v03:Bip002 R HorseLink
+    400184: ARnold_Scene4_v03:Bip002 R Thigh
+    400186: ARnold_Scene4_v03:Bip002 R UpperArm
+    400188: ARnold_Scene4_v03:Bip002 Spine
+    400190: ARnold_Scene4_v03:Bip002 Spine1
+    400192: ARnold_Scene4_v03:Bip002 Spine2
+    400194: ARnold_Scene4_v03:Bip002 Tail
+    400196: ARnold_Scene4_v03:Bip003
+    400198: ARnold_Scene4_v03:Bip003 Footsteps
+    400200: ARnold_Scene4_v03:Bip003 HeadNub
+    400202: ARnold_Scene4_v03:Bip003 L Toe0
+    400204: ARnold_Scene4_v03:Bip003 L Toe0Nub
+    400206: ARnold_Scene4_v03:Bip003 Ponytail1
+    400208: ARnold_Scene4_v03:Bip003 Ponytail1Nub
+    400210: ARnold_Scene4_v03:Bip003 Ponytail2
+    400212: ARnold_Scene4_v03:Bip003 Ponytail2Nub
+    400214: ARnold_Scene4_v03:Bip003 R Toe0
+    400216: ARnold_Scene4_v03:Bip003 R Toe0Nub
+    400218: ARnold_Scene4_v03:Bip003 Tail1
+    400220: ARnold_Scene4_v03:Bip003 TailNub
+    400222: ARnold_Scene4_v03:Bone005
+    400224: ARnold_Scene4_v03:Bone006
+    400226: ARnold_Scene4_v03:book1
+    400228: ARnold_Scene4_v03:book1 1
+    400230: ARnold_Scene4_v03:book1 2
+    400232: ARnold_Scene4_v03:book1 3
+    400234: ARnold_Scene4_v03:book1 4
+    400236: ARnold_Scene4_v03:book1 5
+    400238: ARnold_Scene4_v03:book1 6
+    400240: ARnold_Scene4_v03:book1 7
+    400242: ARnold_Scene4_v03:book1 8
+    400244: ARnold_Scene4_v03:book2
+    400246: ARnold_Scene4_v03:book_outer
+    400248: ARnold_Scene4_v03:book_outer1
+    400250: ARnold_Scene4_v03:book_outer2
+    400252: ARnold_Scene4_v03:book_outer3
+    400254: ARnold_Scene4_v03:book_outer4
+    400256: ARnold_Scene4_v03:book_outer5
+    400258: ARnold_Scene4_v03:book_outer6
+    400260: ARnold_Scene4_v03:book_outer7
+    400262: ARnold_Scene4_v03:book_outer8
+    400264: ARnold_Scene4_v03:book_outer9
+    400266: ARnold_Scene4_v03:Curious
+    400268: ARnold_Scene4_v03:EarRightBase001
+    400270: ARnold_Scene4_v03:EarRightBase002
+    400272: ARnold_Scene4_v03:EarRightMiddle001
+    400274: ARnold_Scene4_v03:EarRightMiddle002
+    400276: ARnold_Scene4_v03:ground_Proxy
+    400278: ARnold_Scene4_v03:group
+    400280: ARnold_Scene4_v03:group1
+    400282: ARnold_Scene4_v03:group10
+    400284: ARnold_Scene4_v03:group2
+    400286: ARnold_Scene4_v03:group3
+    400288: ARnold_Scene4_v03:group4
+    400290: ARnold_Scene4_v03:group5
+    400292: ARnold_Scene4_v03:group6
+    400294: ARnold_Scene4_v03:group7
+    400296: ARnold_Scene4_v03:group8
+    400298: ARnold_Scene4_v03:group9
+    400300: ARnold_Scene4_v03:pasted__group1
+    400302: ARnold_Scene4_v03:pasted__group2
+    400304: ARnold_Scene4_v03:pasted__group2 1
+    400306: ARnold_Scene4_v03:pasted__group2 2
+    400308: ARnold_Scene4_v03:pasted__group2 3
+    400310: ARnold_Scene4_v03:pasted__group2 4
+    400312: ARnold_Scene4_v03:pasted__group2 5
+    400314: ARnold_Scene4_v03:pasted__group2 6
+    400316: ARnold_Scene4_v03:pasted__pasted__group1
+    400318: ARnold_Scene4_v03:pasted__pasted__group1 1
+    400320: ARnold_Scene4_v03:pasted__pasted__group1 2
+    400322: ARnold_Scene4_v03:pasted__pasted__group1 3
+    400324: ARnold_Scene4_v03:pasted__pasted__group1 4
+    400326: ARnold_Scene4_v03:pasted__pasted__group1 5
+    400328: ARnold_Scene4_v03:pasted__pasted__group1 6
+    400330: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1
+    400332: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1 1
+    400334: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1 2
+    400336: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1 3
+    400338: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1 4
+    400340: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1 5
+    400342: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1 6
+    400344: ARnold_Scene4_v03:pasted__pasted__pCube1
+    400346: ARnold_Scene4_v03:pasted__pCube1
+    400348: ARnold_Scene4_v03:pCube1
+    400350: ARnold_Scene4_v03:pCube2
+    400352: ARnold_Scene4_v03:pCube2 1
+    400354: ARnold_Scene4_v03:pCube2 2
+    400356: ARnold_Scene4_v03:pCube2 3
+    400358: ARnold_Scene4_v03:pCube2 4
+    400360: ARnold_Scene4_v03:pCube2 5
+    400362: ARnold_Scene4_v03:pCube2 6
+    400364: ARnold_Scene4_v03:pCube2 7
+    400366: ARnold_Scene4_v03:pCube2 8
+    400368: ARnold_Scene4_v03:pCube2 9
+    400370: ARnold_Scene4_v03:pCube3
+    400372: ARnold_Scene4_v03:pCube3 1
+    400374: ARnold_Scene4_v03:pCube3 2
+    400376: ARnold_Scene4_v03:pCube3 3
+    400378: ARnold_Scene4_v03:pCube3 4
+    400380: ARnold_Scene4_v03:pCube3 5
+    400382: ARnold_Scene4_v03:pCube3 6
+    400384: ARnold_Scene4_v03:pCube3 7
+    400386: ARnold_Scene4_v03:pCube3 8
+    400388: ARnold_Scene4_v03:pCube3 9
+    400390: ARnold_Scene4_v03:pPlane1
+    400392: ARnold_Scene4_v03:pPlane1 1
+    400394: ARnold_Scene4_v03:pPlane1 2
+    400396: ARnold_Scene4_v03:pPlane1 3
+    400398: ARnold_Scene4_v03:pPlane1 4
+    400400: ARnold_Scene4_v03:pPlane1 5
+    400402: ARnold_Scene4_v03:pPlane1 6
+    400404: ARnold_Scene4_v03:pPlane1 7
+    400406: ARnold_Scene4_v03:pPlane1 8
+    400408: ARnold_Scene4_v03:pPlane1 9
+    400410: ARnold_Scene4_v03:pPlane10
+    400412: ARnold_Scene4_v03:pPlane10 1
+    400414: ARnold_Scene4_v03:pPlane10 2
+    400416: ARnold_Scene4_v03:pPlane10 3
+    400418: ARnold_Scene4_v03:pPlane10 4
+    400420: ARnold_Scene4_v03:pPlane10 5
+    400422: ARnold_Scene4_v03:pPlane10 6
+    400424: ARnold_Scene4_v03:pPlane10 7
+    400426: ARnold_Scene4_v03:pPlane10 8
+    400428: ARnold_Scene4_v03:pPlane10 9
+    400430: ARnold_Scene4_v03:pPlane11
+    400432: ARnold_Scene4_v03:pPlane11 1
+    400434: ARnold_Scene4_v03:pPlane11 2
+    400436: ARnold_Scene4_v03:pPlane11 3
+    400438: ARnold_Scene4_v03:pPlane11 4
+    400440: ARnold_Scene4_v03:pPlane11 5
+    400442: ARnold_Scene4_v03:pPlane11 6
+    400444: ARnold_Scene4_v03:pPlane11 7
+    400446: ARnold_Scene4_v03:pPlane11 8
+    400448: ARnold_Scene4_v03:pPlane11 9
+    400450: ARnold_Scene4_v03:pPlane12
+    400452: ARnold_Scene4_v03:pPlane12 1
+    400454: ARnold_Scene4_v03:pPlane12 2
+    400456: ARnold_Scene4_v03:pPlane12 3
+    400458: ARnold_Scene4_v03:pPlane12 4
+    400460: ARnold_Scene4_v03:pPlane12 5
+    400462: ARnold_Scene4_v03:pPlane12 6
+    400464: ARnold_Scene4_v03:pPlane12 7
+    400466: ARnold_Scene4_v03:pPlane12 8
+    400468: ARnold_Scene4_v03:pPlane12 9
+    400470: ARnold_Scene4_v03:pPlane13
+    400472: ARnold_Scene4_v03:pPlane13 1
+    400474: ARnold_Scene4_v03:pPlane13 2
+    400476: ARnold_Scene4_v03:pPlane13 3
+    400478: ARnold_Scene4_v03:pPlane13 4
+    400480: ARnold_Scene4_v03:pPlane13 5
+    400482: ARnold_Scene4_v03:pPlane13 6
+    400484: ARnold_Scene4_v03:pPlane13 7
+    400486: ARnold_Scene4_v03:pPlane13 8
+    400488: ARnold_Scene4_v03:pPlane13 9
+    400490: ARnold_Scene4_v03:pPlane14
+    400492: ARnold_Scene4_v03:pPlane14 1
+    400494: ARnold_Scene4_v03:pPlane14 2
+    400496: ARnold_Scene4_v03:pPlane14 3
+    400498: ARnold_Scene4_v03:pPlane14 4
+    400500: ARnold_Scene4_v03:pPlane14 5
+    400502: ARnold_Scene4_v03:pPlane14 6
+    400504: ARnold_Scene4_v03:pPlane14 7
+    400506: ARnold_Scene4_v03:pPlane14 8
+    400508: ARnold_Scene4_v03:pPlane14 9
+    400510: ARnold_Scene4_v03:pPlane15
+    400512: ARnold_Scene4_v03:pPlane15 1
+    400514: ARnold_Scene4_v03:pPlane15 2
+    400516: ARnold_Scene4_v03:pPlane15 3
+    400518: ARnold_Scene4_v03:pPlane15 4
+    400520: ARnold_Scene4_v03:pPlane15 5
+    400522: ARnold_Scene4_v03:pPlane15 6
+    400524: ARnold_Scene4_v03:pPlane15 7
+    400526: ARnold_Scene4_v03:pPlane15 8
+    400528: ARnold_Scene4_v03:pPlane15 9
+    400530: ARnold_Scene4_v03:pPlane16
+    400532: ARnold_Scene4_v03:pPlane16 1
+    400534: ARnold_Scene4_v03:pPlane16 2
+    400536: ARnold_Scene4_v03:pPlane16 3
+    400538: ARnold_Scene4_v03:pPlane16 4
+    400540: ARnold_Scene4_v03:pPlane16 5
+    400542: ARnold_Scene4_v03:pPlane16 6
+    400544: ARnold_Scene4_v03:pPlane16 7
+    400546: ARnold_Scene4_v03:pPlane16 8
+    400548: ARnold_Scene4_v03:pPlane16 9
+    400550: ARnold_Scene4_v03:pPlane17
+    400552: ARnold_Scene4_v03:pPlane17 1
+    400554: ARnold_Scene4_v03:pPlane17 2
+    400556: ARnold_Scene4_v03:pPlane17 3
+    400558: ARnold_Scene4_v03:pPlane17 4
+    400560: ARnold_Scene4_v03:pPlane17 5
+    400562: ARnold_Scene4_v03:pPlane17 6
+    400564: ARnold_Scene4_v03:pPlane17 7
+    400566: ARnold_Scene4_v03:pPlane17 8
+    400568: ARnold_Scene4_v03:pPlane17 9
+    400570: ARnold_Scene4_v03:pPlane18
+    400572: ARnold_Scene4_v03:pPlane18 1
+    400574: ARnold_Scene4_v03:pPlane18 2
+    400576: ARnold_Scene4_v03:pPlane18 3
+    400578: ARnold_Scene4_v03:pPlane18 4
+    400580: ARnold_Scene4_v03:pPlane18 5
+    400582: ARnold_Scene4_v03:pPlane18 6
+    400584: ARnold_Scene4_v03:pPlane18 7
+    400586: ARnold_Scene4_v03:pPlane18 8
+    400588: ARnold_Scene4_v03:pPlane18 9
+    400590: ARnold_Scene4_v03:pPlane19
+    400592: ARnold_Scene4_v03:pPlane19 1
+    400594: ARnold_Scene4_v03:pPlane19 2
+    400596: ARnold_Scene4_v03:pPlane19 3
+    400598: ARnold_Scene4_v03:pPlane19 4
+    400600: ARnold_Scene4_v03:pPlane19 5
+    400602: ARnold_Scene4_v03:pPlane19 6
+    400604: ARnold_Scene4_v03:pPlane19 7
+    400606: ARnold_Scene4_v03:pPlane19 8
+    400608: ARnold_Scene4_v03:pPlane19 9
+    400610: ARnold_Scene4_v03:pPlane2
+    400612: ARnold_Scene4_v03:pPlane2 1
+    400614: ARnold_Scene4_v03:pPlane2 2
+    400616: ARnold_Scene4_v03:pPlane2 3
+    400618: ARnold_Scene4_v03:pPlane2 4
+    400620: ARnold_Scene4_v03:pPlane2 5
+    400622: ARnold_Scene4_v03:pPlane2 6
+    400624: ARnold_Scene4_v03:pPlane2 7
+    400626: ARnold_Scene4_v03:pPlane2 8
+    400628: ARnold_Scene4_v03:pPlane2 9
+    400630: ARnold_Scene4_v03:pPlane20
+    400632: ARnold_Scene4_v03:pPlane20 1
+    400634: ARnold_Scene4_v03:pPlane20 2
+    400636: ARnold_Scene4_v03:pPlane20 3
+    400638: ARnold_Scene4_v03:pPlane20 4
+    400640: ARnold_Scene4_v03:pPlane20 5
+    400642: ARnold_Scene4_v03:pPlane20 6
+    400644: ARnold_Scene4_v03:pPlane20 7
+    400646: ARnold_Scene4_v03:pPlane20 8
+    400648: ARnold_Scene4_v03:pPlane20 9
+    400650: ARnold_Scene4_v03:pPlane21
+    400652: ARnold_Scene4_v03:pPlane21 1
+    400654: ARnold_Scene4_v03:pPlane21 2
+    400656: ARnold_Scene4_v03:pPlane21 3
+    400658: ARnold_Scene4_v03:pPlane21 4
+    400660: ARnold_Scene4_v03:pPlane21 5
+    400662: ARnold_Scene4_v03:pPlane21 6
+    400664: ARnold_Scene4_v03:pPlane21 7
+    400666: ARnold_Scene4_v03:pPlane21 8
+    400668: ARnold_Scene4_v03:pPlane21 9
+    400670: ARnold_Scene4_v03:pPlane3
+    400672: ARnold_Scene4_v03:pPlane3 1
+    400674: ARnold_Scene4_v03:pPlane3 2
+    400676: ARnold_Scene4_v03:pPlane3 3
+    400678: ARnold_Scene4_v03:pPlane3 4
+    400680: ARnold_Scene4_v03:pPlane3 5
+    400682: ARnold_Scene4_v03:pPlane3 6
+    400684: ARnold_Scene4_v03:pPlane3 7
+    400686: ARnold_Scene4_v03:pPlane3 8
+    400688: ARnold_Scene4_v03:pPlane3 9
+    400690: ARnold_Scene4_v03:pPlane4
+    400692: ARnold_Scene4_v03:pPlane4 1
+    400694: ARnold_Scene4_v03:pPlane4 2
+    400696: ARnold_Scene4_v03:pPlane4 3
+    400698: ARnold_Scene4_v03:pPlane4 4
+    400700: ARnold_Scene4_v03:pPlane4 5
+    400702: ARnold_Scene4_v03:pPlane4 6
+    400704: ARnold_Scene4_v03:pPlane4 7
+    400706: ARnold_Scene4_v03:pPlane4 8
+    400708: ARnold_Scene4_v03:pPlane4 9
+    400710: ARnold_Scene4_v03:pPlane5
+    400712: ARnold_Scene4_v03:pPlane5 1
+    400714: ARnold_Scene4_v03:pPlane5 2
+    400716: ARnold_Scene4_v03:pPlane5 3
+    400718: ARnold_Scene4_v03:pPlane5 4
+    400720: ARnold_Scene4_v03:pPlane5 5
+    400722: ARnold_Scene4_v03:pPlane5 6
+    400724: ARnold_Scene4_v03:pPlane5 7
+    400726: ARnold_Scene4_v03:pPlane5 8
+    400728: ARnold_Scene4_v03:pPlane5 9
+    400730: ARnold_Scene4_v03:pPlane6
+    400732: ARnold_Scene4_v03:pPlane6 1
+    400734: ARnold_Scene4_v03:pPlane6 2
+    400736: ARnold_Scene4_v03:pPlane6 3
+    400738: ARnold_Scene4_v03:pPlane6 4
+    400740: ARnold_Scene4_v03:pPlane6 5
+    400742: ARnold_Scene4_v03:pPlane6 6
+    400744: ARnold_Scene4_v03:pPlane6 7
+    400746: ARnold_Scene4_v03:pPlane6 8
+    400748: ARnold_Scene4_v03:pPlane6 9
+    400750: ARnold_Scene4_v03:pPlane7
+    400752: ARnold_Scene4_v03:pPlane7 1
+    400754: ARnold_Scene4_v03:pPlane7 2
+    400756: ARnold_Scene4_v03:pPlane7 3
+    400758: ARnold_Scene4_v03:pPlane7 4
+    400760: ARnold_Scene4_v03:pPlane7 5
+    400762: ARnold_Scene4_v03:pPlane7 6
+    400764: ARnold_Scene4_v03:pPlane7 7
+    400766: ARnold_Scene4_v03:pPlane7 8
+    400768: ARnold_Scene4_v03:pPlane7 9
+    400770: ARnold_Scene4_v03:pPlane8
+    400772: ARnold_Scene4_v03:pPlane8 1
+    400774: ARnold_Scene4_v03:pPlane8 2
+    400776: ARnold_Scene4_v03:pPlane8 3
+    400778: ARnold_Scene4_v03:pPlane8 4
+    400780: ARnold_Scene4_v03:pPlane8 5
+    400782: ARnold_Scene4_v03:pPlane8 6
+    400784: ARnold_Scene4_v03:pPlane8 7
+    400786: ARnold_Scene4_v03:pPlane8 8
+    400788: ARnold_Scene4_v03:pPlane8 9
+    400790: ARnold_Scene4_v03:pPlane9
+    400792: ARnold_Scene4_v03:pPlane9 1
+    400794: ARnold_Scene4_v03:pPlane9 2
+    400796: ARnold_Scene4_v03:pPlane9 3
+    400798: ARnold_Scene4_v03:pPlane9 4
+    400800: ARnold_Scene4_v03:pPlane9 5
+    400802: ARnold_Scene4_v03:pPlane9 6
+    400804: ARnold_Scene4_v03:pPlane9 7
+    400806: ARnold_Scene4_v03:pPlane9 8
+    400808: ARnold_Scene4_v03:pPlane9 9
+    400810: ARnold_Scene4_v03:Sad
+    400812: ARnold_Scene4_v03:sleep
+    400814: ARnold_Scene4_v03:Smile
+    400816: ARnold_Scene4_v03:stack_prox
+    400818: ARnold_Scene4_v03:Suspicoius
+    400820: ARnold_Scene4_v03:Wink
+    2300000: ARnold_Scene4_v03:Angry
+    2300002: ARnold_Scene4_v03:ARnold_demoday:Door1
+    2300004: ARnold_Scene4_v03:Beagle
+    2300006: ARnold_Scene4_v03:Curious
+    2300008: ARnold_Scene4_v03:ground_Proxy
+    2300010: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1
+    2300012: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1 1
+    2300014: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1 2
+    2300016: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1 3
+    2300018: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1 4
+    2300020: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1 5
+    2300022: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1 6
+    2300024: ARnold_Scene4_v03:pasted__pasted__pCube1
+    2300026: ARnold_Scene4_v03:pasted__pCube1
+    2300028: ARnold_Scene4_v03:pCube1
+    2300030: ARnold_Scene4_v03:pCube2
+    2300032: ARnold_Scene4_v03:pCube2 1
+    2300034: ARnold_Scene4_v03:pCube2 2
+    2300036: ARnold_Scene4_v03:pCube2 3
+    2300038: ARnold_Scene4_v03:pCube2 4
+    2300040: ARnold_Scene4_v03:pCube2 5
+    2300042: ARnold_Scene4_v03:pCube2 6
+    2300044: ARnold_Scene4_v03:pCube2 7
+    2300046: ARnold_Scene4_v03:pCube2 8
+    2300048: ARnold_Scene4_v03:pCube2 9
+    2300050: ARnold_Scene4_v03:pCube3
+    2300052: ARnold_Scene4_v03:pCube3 1
+    2300054: ARnold_Scene4_v03:pCube3 2
+    2300056: ARnold_Scene4_v03:pCube3 3
+    2300058: ARnold_Scene4_v03:pCube3 4
+    2300060: ARnold_Scene4_v03:pCube3 5
+    2300062: ARnold_Scene4_v03:pCube3 6
+    2300064: ARnold_Scene4_v03:pCube3 7
+    2300066: ARnold_Scene4_v03:pCube3 8
+    2300068: ARnold_Scene4_v03:pCube3 9
+    2300070: ARnold_Scene4_v03:pPlane1
+    2300072: ARnold_Scene4_v03:pPlane1 1
+    2300074: ARnold_Scene4_v03:pPlane1 2
+    2300076: ARnold_Scene4_v03:pPlane1 3
+    2300078: ARnold_Scene4_v03:pPlane1 4
+    2300080: ARnold_Scene4_v03:pPlane1 5
+    2300082: ARnold_Scene4_v03:pPlane1 6
+    2300084: ARnold_Scene4_v03:pPlane1 7
+    2300086: ARnold_Scene4_v03:pPlane1 8
+    2300088: ARnold_Scene4_v03:pPlane1 9
+    2300090: ARnold_Scene4_v03:pPlane10
+    2300092: ARnold_Scene4_v03:pPlane10 1
+    2300094: ARnold_Scene4_v03:pPlane10 2
+    2300096: ARnold_Scene4_v03:pPlane10 3
+    2300098: ARnold_Scene4_v03:pPlane10 4
+    2300100: ARnold_Scene4_v03:pPlane10 5
+    2300102: ARnold_Scene4_v03:pPlane10 6
+    2300104: ARnold_Scene4_v03:pPlane10 7
+    2300106: ARnold_Scene4_v03:pPlane10 8
+    2300108: ARnold_Scene4_v03:pPlane10 9
+    2300110: ARnold_Scene4_v03:pPlane11
+    2300112: ARnold_Scene4_v03:pPlane11 1
+    2300114: ARnold_Scene4_v03:pPlane11 2
+    2300116: ARnold_Scene4_v03:pPlane11 3
+    2300118: ARnold_Scene4_v03:pPlane11 4
+    2300120: ARnold_Scene4_v03:pPlane11 5
+    2300122: ARnold_Scene4_v03:pPlane11 6
+    2300124: ARnold_Scene4_v03:pPlane11 7
+    2300126: ARnold_Scene4_v03:pPlane11 8
+    2300128: ARnold_Scene4_v03:pPlane11 9
+    2300130: ARnold_Scene4_v03:pPlane12
+    2300132: ARnold_Scene4_v03:pPlane12 1
+    2300134: ARnold_Scene4_v03:pPlane12 2
+    2300136: ARnold_Scene4_v03:pPlane12 3
+    2300138: ARnold_Scene4_v03:pPlane12 4
+    2300140: ARnold_Scene4_v03:pPlane12 5
+    2300142: ARnold_Scene4_v03:pPlane12 6
+    2300144: ARnold_Scene4_v03:pPlane12 7
+    2300146: ARnold_Scene4_v03:pPlane12 8
+    2300148: ARnold_Scene4_v03:pPlane12 9
+    2300150: ARnold_Scene4_v03:pPlane13
+    2300152: ARnold_Scene4_v03:pPlane13 1
+    2300154: ARnold_Scene4_v03:pPlane13 2
+    2300156: ARnold_Scene4_v03:pPlane13 3
+    2300158: ARnold_Scene4_v03:pPlane13 4
+    2300160: ARnold_Scene4_v03:pPlane13 5
+    2300162: ARnold_Scene4_v03:pPlane13 6
+    2300164: ARnold_Scene4_v03:pPlane13 7
+    2300166: ARnold_Scene4_v03:pPlane13 8
+    2300168: ARnold_Scene4_v03:pPlane13 9
+    2300170: ARnold_Scene4_v03:pPlane14
+    2300172: ARnold_Scene4_v03:pPlane14 1
+    2300174: ARnold_Scene4_v03:pPlane14 2
+    2300176: ARnold_Scene4_v03:pPlane14 3
+    2300178: ARnold_Scene4_v03:pPlane14 4
+    2300180: ARnold_Scene4_v03:pPlane14 5
+    2300182: ARnold_Scene4_v03:pPlane14 6
+    2300184: ARnold_Scene4_v03:pPlane14 7
+    2300186: ARnold_Scene4_v03:pPlane14 8
+    2300188: ARnold_Scene4_v03:pPlane14 9
+    2300190: ARnold_Scene4_v03:pPlane15
+    2300192: ARnold_Scene4_v03:pPlane15 1
+    2300194: ARnold_Scene4_v03:pPlane15 2
+    2300196: ARnold_Scene4_v03:pPlane15 3
+    2300198: ARnold_Scene4_v03:pPlane15 4
+    2300200: ARnold_Scene4_v03:pPlane15 5
+    2300202: ARnold_Scene4_v03:pPlane15 6
+    2300204: ARnold_Scene4_v03:pPlane15 7
+    2300206: ARnold_Scene4_v03:pPlane15 8
+    2300208: ARnold_Scene4_v03:pPlane15 9
+    2300210: ARnold_Scene4_v03:pPlane16
+    2300212: ARnold_Scene4_v03:pPlane16 1
+    2300214: ARnold_Scene4_v03:pPlane16 2
+    2300216: ARnold_Scene4_v03:pPlane16 3
+    2300218: ARnold_Scene4_v03:pPlane16 4
+    2300220: ARnold_Scene4_v03:pPlane16 5
+    2300222: ARnold_Scene4_v03:pPlane16 6
+    2300224: ARnold_Scene4_v03:pPlane16 7
+    2300226: ARnold_Scene4_v03:pPlane16 8
+    2300228: ARnold_Scene4_v03:pPlane16 9
+    2300230: ARnold_Scene4_v03:pPlane17
+    2300232: ARnold_Scene4_v03:pPlane17 1
+    2300234: ARnold_Scene4_v03:pPlane17 2
+    2300236: ARnold_Scene4_v03:pPlane17 3
+    2300238: ARnold_Scene4_v03:pPlane17 4
+    2300240: ARnold_Scene4_v03:pPlane17 5
+    2300242: ARnold_Scene4_v03:pPlane17 6
+    2300244: ARnold_Scene4_v03:pPlane17 7
+    2300246: ARnold_Scene4_v03:pPlane17 8
+    2300248: ARnold_Scene4_v03:pPlane17 9
+    2300250: ARnold_Scene4_v03:pPlane18
+    2300252: ARnold_Scene4_v03:pPlane18 1
+    2300254: ARnold_Scene4_v03:pPlane18 2
+    2300256: ARnold_Scene4_v03:pPlane18 3
+    2300258: ARnold_Scene4_v03:pPlane18 4
+    2300260: ARnold_Scene4_v03:pPlane18 5
+    2300262: ARnold_Scene4_v03:pPlane18 6
+    2300264: ARnold_Scene4_v03:pPlane18 7
+    2300266: ARnold_Scene4_v03:pPlane18 8
+    2300268: ARnold_Scene4_v03:pPlane18 9
+    2300270: ARnold_Scene4_v03:pPlane19
+    2300272: ARnold_Scene4_v03:pPlane19 1
+    2300274: ARnold_Scene4_v03:pPlane19 2
+    2300276: ARnold_Scene4_v03:pPlane19 3
+    2300278: ARnold_Scene4_v03:pPlane19 4
+    2300280: ARnold_Scene4_v03:pPlane19 5
+    2300282: ARnold_Scene4_v03:pPlane19 6
+    2300284: ARnold_Scene4_v03:pPlane19 7
+    2300286: ARnold_Scene4_v03:pPlane19 8
+    2300288: ARnold_Scene4_v03:pPlane19 9
+    2300290: ARnold_Scene4_v03:pPlane2
+    2300292: ARnold_Scene4_v03:pPlane2 1
+    2300294: ARnold_Scene4_v03:pPlane2 2
+    2300296: ARnold_Scene4_v03:pPlane2 3
+    2300298: ARnold_Scene4_v03:pPlane2 4
+    2300300: ARnold_Scene4_v03:pPlane2 5
+    2300302: ARnold_Scene4_v03:pPlane2 6
+    2300304: ARnold_Scene4_v03:pPlane2 7
+    2300306: ARnold_Scene4_v03:pPlane2 8
+    2300308: ARnold_Scene4_v03:pPlane2 9
+    2300310: ARnold_Scene4_v03:pPlane20
+    2300312: ARnold_Scene4_v03:pPlane20 1
+    2300314: ARnold_Scene4_v03:pPlane20 2
+    2300316: ARnold_Scene4_v03:pPlane20 3
+    2300318: ARnold_Scene4_v03:pPlane20 4
+    2300320: ARnold_Scene4_v03:pPlane20 5
+    2300322: ARnold_Scene4_v03:pPlane20 6
+    2300324: ARnold_Scene4_v03:pPlane20 7
+    2300326: ARnold_Scene4_v03:pPlane20 8
+    2300328: ARnold_Scene4_v03:pPlane20 9
+    2300330: ARnold_Scene4_v03:pPlane21
+    2300332: ARnold_Scene4_v03:pPlane21 1
+    2300334: ARnold_Scene4_v03:pPlane21 2
+    2300336: ARnold_Scene4_v03:pPlane21 3
+    2300338: ARnold_Scene4_v03:pPlane21 4
+    2300340: ARnold_Scene4_v03:pPlane21 5
+    2300342: ARnold_Scene4_v03:pPlane21 6
+    2300344: ARnold_Scene4_v03:pPlane21 7
+    2300346: ARnold_Scene4_v03:pPlane21 8
+    2300348: ARnold_Scene4_v03:pPlane21 9
+    2300350: ARnold_Scene4_v03:pPlane3
+    2300352: ARnold_Scene4_v03:pPlane3 1
+    2300354: ARnold_Scene4_v03:pPlane3 2
+    2300356: ARnold_Scene4_v03:pPlane3 3
+    2300358: ARnold_Scene4_v03:pPlane3 4
+    2300360: ARnold_Scene4_v03:pPlane3 5
+    2300362: ARnold_Scene4_v03:pPlane3 6
+    2300364: ARnold_Scene4_v03:pPlane3 7
+    2300366: ARnold_Scene4_v03:pPlane3 8
+    2300368: ARnold_Scene4_v03:pPlane3 9
+    2300370: ARnold_Scene4_v03:pPlane4
+    2300372: ARnold_Scene4_v03:pPlane4 1
+    2300374: ARnold_Scene4_v03:pPlane4 2
+    2300376: ARnold_Scene4_v03:pPlane4 3
+    2300378: ARnold_Scene4_v03:pPlane4 4
+    2300380: ARnold_Scene4_v03:pPlane4 5
+    2300382: ARnold_Scene4_v03:pPlane4 6
+    2300384: ARnold_Scene4_v03:pPlane4 7
+    2300386: ARnold_Scene4_v03:pPlane4 8
+    2300388: ARnold_Scene4_v03:pPlane4 9
+    2300390: ARnold_Scene4_v03:pPlane5
+    2300392: ARnold_Scene4_v03:pPlane5 1
+    2300394: ARnold_Scene4_v03:pPlane5 2
+    2300396: ARnold_Scene4_v03:pPlane5 3
+    2300398: ARnold_Scene4_v03:pPlane5 4
+    2300400: ARnold_Scene4_v03:pPlane5 5
+    2300402: ARnold_Scene4_v03:pPlane5 6
+    2300404: ARnold_Scene4_v03:pPlane5 7
+    2300406: ARnold_Scene4_v03:pPlane5 8
+    2300408: ARnold_Scene4_v03:pPlane5 9
+    2300410: ARnold_Scene4_v03:pPlane6
+    2300412: ARnold_Scene4_v03:pPlane6 1
+    2300414: ARnold_Scene4_v03:pPlane6 2
+    2300416: ARnold_Scene4_v03:pPlane6 3
+    2300418: ARnold_Scene4_v03:pPlane6 4
+    2300420: ARnold_Scene4_v03:pPlane6 5
+    2300422: ARnold_Scene4_v03:pPlane6 6
+    2300424: ARnold_Scene4_v03:pPlane6 7
+    2300426: ARnold_Scene4_v03:pPlane6 8
+    2300428: ARnold_Scene4_v03:pPlane6 9
+    2300430: ARnold_Scene4_v03:pPlane7
+    2300432: ARnold_Scene4_v03:pPlane7 1
+    2300434: ARnold_Scene4_v03:pPlane7 2
+    2300436: ARnold_Scene4_v03:pPlane7 3
+    2300438: ARnold_Scene4_v03:pPlane7 4
+    2300440: ARnold_Scene4_v03:pPlane7 5
+    2300442: ARnold_Scene4_v03:pPlane7 6
+    2300444: ARnold_Scene4_v03:pPlane7 7
+    2300446: ARnold_Scene4_v03:pPlane7 8
+    2300448: ARnold_Scene4_v03:pPlane7 9
+    2300450: ARnold_Scene4_v03:pPlane8
+    2300452: ARnold_Scene4_v03:pPlane8 1
+    2300454: ARnold_Scene4_v03:pPlane8 2
+    2300456: ARnold_Scene4_v03:pPlane8 3
+    2300458: ARnold_Scene4_v03:pPlane8 4
+    2300460: ARnold_Scene4_v03:pPlane8 5
+    2300462: ARnold_Scene4_v03:pPlane8 6
+    2300464: ARnold_Scene4_v03:pPlane8 7
+    2300466: ARnold_Scene4_v03:pPlane8 8
+    2300468: ARnold_Scene4_v03:pPlane8 9
+    2300470: ARnold_Scene4_v03:pPlane9
+    2300472: ARnold_Scene4_v03:pPlane9 1
+    2300474: ARnold_Scene4_v03:pPlane9 2
+    2300476: ARnold_Scene4_v03:pPlane9 3
+    2300478: ARnold_Scene4_v03:pPlane9 4
+    2300480: ARnold_Scene4_v03:pPlane9 5
+    2300482: ARnold_Scene4_v03:pPlane9 6
+    2300484: ARnold_Scene4_v03:pPlane9 7
+    2300486: ARnold_Scene4_v03:pPlane9 8
+    2300488: ARnold_Scene4_v03:pPlane9 9
+    2300490: ARnold_Scene4_v03:Sad
+    2300492: ARnold_Scene4_v03:sleep
+    2300494: ARnold_Scene4_v03:Smile
+    2300496: ARnold_Scene4_v03:Suspicoius
+    2300498: ARnold_Scene4_v03:Wink
+    3300000: ARnold_Scene4_v03:Angry
+    3300002: ARnold_Scene4_v03:ARnold_demoday:Door1
+    3300004: ARnold_Scene4_v03:Beagle
+    3300006: ARnold_Scene4_v03:Curious
+    3300008: ARnold_Scene4_v03:ground_Proxy
+    3300010: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1
+    3300012: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1 1
+    3300014: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1 2
+    3300016: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1 3
+    3300018: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1 4
+    3300020: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1 5
+    3300022: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1 6
+    3300024: ARnold_Scene4_v03:pasted__pasted__pCube1
+    3300026: ARnold_Scene4_v03:pasted__pCube1
+    3300028: ARnold_Scene4_v03:pCube1
+    3300030: ARnold_Scene4_v03:pCube2
+    3300032: ARnold_Scene4_v03:pCube2 1
+    3300034: ARnold_Scene4_v03:pCube2 2
+    3300036: ARnold_Scene4_v03:pCube2 3
+    3300038: ARnold_Scene4_v03:pCube2 4
+    3300040: ARnold_Scene4_v03:pCube2 5
+    3300042: ARnold_Scene4_v03:pCube2 6
+    3300044: ARnold_Scene4_v03:pCube2 7
+    3300046: ARnold_Scene4_v03:pCube2 8
+    3300048: ARnold_Scene4_v03:pCube2 9
+    3300050: ARnold_Scene4_v03:pCube3
+    3300052: ARnold_Scene4_v03:pCube3 1
+    3300054: ARnold_Scene4_v03:pCube3 2
+    3300056: ARnold_Scene4_v03:pCube3 3
+    3300058: ARnold_Scene4_v03:pCube3 4
+    3300060: ARnold_Scene4_v03:pCube3 5
+    3300062: ARnold_Scene4_v03:pCube3 6
+    3300064: ARnold_Scene4_v03:pCube3 7
+    3300066: ARnold_Scene4_v03:pCube3 8
+    3300068: ARnold_Scene4_v03:pCube3 9
+    3300070: ARnold_Scene4_v03:pPlane1
+    3300072: ARnold_Scene4_v03:pPlane1 1
+    3300074: ARnold_Scene4_v03:pPlane1 2
+    3300076: ARnold_Scene4_v03:pPlane1 3
+    3300078: ARnold_Scene4_v03:pPlane1 4
+    3300080: ARnold_Scene4_v03:pPlane1 5
+    3300082: ARnold_Scene4_v03:pPlane1 6
+    3300084: ARnold_Scene4_v03:pPlane1 7
+    3300086: ARnold_Scene4_v03:pPlane1 8
+    3300088: ARnold_Scene4_v03:pPlane1 9
+    3300090: ARnold_Scene4_v03:pPlane10
+    3300092: ARnold_Scene4_v03:pPlane10 1
+    3300094: ARnold_Scene4_v03:pPlane10 2
+    3300096: ARnold_Scene4_v03:pPlane10 3
+    3300098: ARnold_Scene4_v03:pPlane10 4
+    3300100: ARnold_Scene4_v03:pPlane10 5
+    3300102: ARnold_Scene4_v03:pPlane10 6
+    3300104: ARnold_Scene4_v03:pPlane10 7
+    3300106: ARnold_Scene4_v03:pPlane10 8
+    3300108: ARnold_Scene4_v03:pPlane10 9
+    3300110: ARnold_Scene4_v03:pPlane11
+    3300112: ARnold_Scene4_v03:pPlane11 1
+    3300114: ARnold_Scene4_v03:pPlane11 2
+    3300116: ARnold_Scene4_v03:pPlane11 3
+    3300118: ARnold_Scene4_v03:pPlane11 4
+    3300120: ARnold_Scene4_v03:pPlane11 5
+    3300122: ARnold_Scene4_v03:pPlane11 6
+    3300124: ARnold_Scene4_v03:pPlane11 7
+    3300126: ARnold_Scene4_v03:pPlane11 8
+    3300128: ARnold_Scene4_v03:pPlane11 9
+    3300130: ARnold_Scene4_v03:pPlane12
+    3300132: ARnold_Scene4_v03:pPlane12 1
+    3300134: ARnold_Scene4_v03:pPlane12 2
+    3300136: ARnold_Scene4_v03:pPlane12 3
+    3300138: ARnold_Scene4_v03:pPlane12 4
+    3300140: ARnold_Scene4_v03:pPlane12 5
+    3300142: ARnold_Scene4_v03:pPlane12 6
+    3300144: ARnold_Scene4_v03:pPlane12 7
+    3300146: ARnold_Scene4_v03:pPlane12 8
+    3300148: ARnold_Scene4_v03:pPlane12 9
+    3300150: ARnold_Scene4_v03:pPlane13
+    3300152: ARnold_Scene4_v03:pPlane13 1
+    3300154: ARnold_Scene4_v03:pPlane13 2
+    3300156: ARnold_Scene4_v03:pPlane13 3
+    3300158: ARnold_Scene4_v03:pPlane13 4
+    3300160: ARnold_Scene4_v03:pPlane13 5
+    3300162: ARnold_Scene4_v03:pPlane13 6
+    3300164: ARnold_Scene4_v03:pPlane13 7
+    3300166: ARnold_Scene4_v03:pPlane13 8
+    3300168: ARnold_Scene4_v03:pPlane13 9
+    3300170: ARnold_Scene4_v03:pPlane14
+    3300172: ARnold_Scene4_v03:pPlane14 1
+    3300174: ARnold_Scene4_v03:pPlane14 2
+    3300176: ARnold_Scene4_v03:pPlane14 3
+    3300178: ARnold_Scene4_v03:pPlane14 4
+    3300180: ARnold_Scene4_v03:pPlane14 5
+    3300182: ARnold_Scene4_v03:pPlane14 6
+    3300184: ARnold_Scene4_v03:pPlane14 7
+    3300186: ARnold_Scene4_v03:pPlane14 8
+    3300188: ARnold_Scene4_v03:pPlane14 9
+    3300190: ARnold_Scene4_v03:pPlane15
+    3300192: ARnold_Scene4_v03:pPlane15 1
+    3300194: ARnold_Scene4_v03:pPlane15 2
+    3300196: ARnold_Scene4_v03:pPlane15 3
+    3300198: ARnold_Scene4_v03:pPlane15 4
+    3300200: ARnold_Scene4_v03:pPlane15 5
+    3300202: ARnold_Scene4_v03:pPlane15 6
+    3300204: ARnold_Scene4_v03:pPlane15 7
+    3300206: ARnold_Scene4_v03:pPlane15 8
+    3300208: ARnold_Scene4_v03:pPlane15 9
+    3300210: ARnold_Scene4_v03:pPlane16
+    3300212: ARnold_Scene4_v03:pPlane16 1
+    3300214: ARnold_Scene4_v03:pPlane16 2
+    3300216: ARnold_Scene4_v03:pPlane16 3
+    3300218: ARnold_Scene4_v03:pPlane16 4
+    3300220: ARnold_Scene4_v03:pPlane16 5
+    3300222: ARnold_Scene4_v03:pPlane16 6
+    3300224: ARnold_Scene4_v03:pPlane16 7
+    3300226: ARnold_Scene4_v03:pPlane16 8
+    3300228: ARnold_Scene4_v03:pPlane16 9
+    3300230: ARnold_Scene4_v03:pPlane17
+    3300232: ARnold_Scene4_v03:pPlane17 1
+    3300234: ARnold_Scene4_v03:pPlane17 2
+    3300236: ARnold_Scene4_v03:pPlane17 3
+    3300238: ARnold_Scene4_v03:pPlane17 4
+    3300240: ARnold_Scene4_v03:pPlane17 5
+    3300242: ARnold_Scene4_v03:pPlane17 6
+    3300244: ARnold_Scene4_v03:pPlane17 7
+    3300246: ARnold_Scene4_v03:pPlane17 8
+    3300248: ARnold_Scene4_v03:pPlane17 9
+    3300250: ARnold_Scene4_v03:pPlane18
+    3300252: ARnold_Scene4_v03:pPlane18 1
+    3300254: ARnold_Scene4_v03:pPlane18 2
+    3300256: ARnold_Scene4_v03:pPlane18 3
+    3300258: ARnold_Scene4_v03:pPlane18 4
+    3300260: ARnold_Scene4_v03:pPlane18 5
+    3300262: ARnold_Scene4_v03:pPlane18 6
+    3300264: ARnold_Scene4_v03:pPlane18 7
+    3300266: ARnold_Scene4_v03:pPlane18 8
+    3300268: ARnold_Scene4_v03:pPlane18 9
+    3300270: ARnold_Scene4_v03:pPlane19
+    3300272: ARnold_Scene4_v03:pPlane19 1
+    3300274: ARnold_Scene4_v03:pPlane19 2
+    3300276: ARnold_Scene4_v03:pPlane19 3
+    3300278: ARnold_Scene4_v03:pPlane19 4
+    3300280: ARnold_Scene4_v03:pPlane19 5
+    3300282: ARnold_Scene4_v03:pPlane19 6
+    3300284: ARnold_Scene4_v03:pPlane19 7
+    3300286: ARnold_Scene4_v03:pPlane19 8
+    3300288: ARnold_Scene4_v03:pPlane19 9
+    3300290: ARnold_Scene4_v03:pPlane2
+    3300292: ARnold_Scene4_v03:pPlane2 1
+    3300294: ARnold_Scene4_v03:pPlane2 2
+    3300296: ARnold_Scene4_v03:pPlane2 3
+    3300298: ARnold_Scene4_v03:pPlane2 4
+    3300300: ARnold_Scene4_v03:pPlane2 5
+    3300302: ARnold_Scene4_v03:pPlane2 6
+    3300304: ARnold_Scene4_v03:pPlane2 7
+    3300306: ARnold_Scene4_v03:pPlane2 8
+    3300308: ARnold_Scene4_v03:pPlane2 9
+    3300310: ARnold_Scene4_v03:pPlane20
+    3300312: ARnold_Scene4_v03:pPlane20 1
+    3300314: ARnold_Scene4_v03:pPlane20 2
+    3300316: ARnold_Scene4_v03:pPlane20 3
+    3300318: ARnold_Scene4_v03:pPlane20 4
+    3300320: ARnold_Scene4_v03:pPlane20 5
+    3300322: ARnold_Scene4_v03:pPlane20 6
+    3300324: ARnold_Scene4_v03:pPlane20 7
+    3300326: ARnold_Scene4_v03:pPlane20 8
+    3300328: ARnold_Scene4_v03:pPlane20 9
+    3300330: ARnold_Scene4_v03:pPlane21
+    3300332: ARnold_Scene4_v03:pPlane21 1
+    3300334: ARnold_Scene4_v03:pPlane21 2
+    3300336: ARnold_Scene4_v03:pPlane21 3
+    3300338: ARnold_Scene4_v03:pPlane21 4
+    3300340: ARnold_Scene4_v03:pPlane21 5
+    3300342: ARnold_Scene4_v03:pPlane21 6
+    3300344: ARnold_Scene4_v03:pPlane21 7
+    3300346: ARnold_Scene4_v03:pPlane21 8
+    3300348: ARnold_Scene4_v03:pPlane21 9
+    3300350: ARnold_Scene4_v03:pPlane3
+    3300352: ARnold_Scene4_v03:pPlane3 1
+    3300354: ARnold_Scene4_v03:pPlane3 2
+    3300356: ARnold_Scene4_v03:pPlane3 3
+    3300358: ARnold_Scene4_v03:pPlane3 4
+    3300360: ARnold_Scene4_v03:pPlane3 5
+    3300362: ARnold_Scene4_v03:pPlane3 6
+    3300364: ARnold_Scene4_v03:pPlane3 7
+    3300366: ARnold_Scene4_v03:pPlane3 8
+    3300368: ARnold_Scene4_v03:pPlane3 9
+    3300370: ARnold_Scene4_v03:pPlane4
+    3300372: ARnold_Scene4_v03:pPlane4 1
+    3300374: ARnold_Scene4_v03:pPlane4 2
+    3300376: ARnold_Scene4_v03:pPlane4 3
+    3300378: ARnold_Scene4_v03:pPlane4 4
+    3300380: ARnold_Scene4_v03:pPlane4 5
+    3300382: ARnold_Scene4_v03:pPlane4 6
+    3300384: ARnold_Scene4_v03:pPlane4 7
+    3300386: ARnold_Scene4_v03:pPlane4 8
+    3300388: ARnold_Scene4_v03:pPlane4 9
+    3300390: ARnold_Scene4_v03:pPlane5
+    3300392: ARnold_Scene4_v03:pPlane5 1
+    3300394: ARnold_Scene4_v03:pPlane5 2
+    3300396: ARnold_Scene4_v03:pPlane5 3
+    3300398: ARnold_Scene4_v03:pPlane5 4
+    3300400: ARnold_Scene4_v03:pPlane5 5
+    3300402: ARnold_Scene4_v03:pPlane5 6
+    3300404: ARnold_Scene4_v03:pPlane5 7
+    3300406: ARnold_Scene4_v03:pPlane5 8
+    3300408: ARnold_Scene4_v03:pPlane5 9
+    3300410: ARnold_Scene4_v03:pPlane6
+    3300412: ARnold_Scene4_v03:pPlane6 1
+    3300414: ARnold_Scene4_v03:pPlane6 2
+    3300416: ARnold_Scene4_v03:pPlane6 3
+    3300418: ARnold_Scene4_v03:pPlane6 4
+    3300420: ARnold_Scene4_v03:pPlane6 5
+    3300422: ARnold_Scene4_v03:pPlane6 6
+    3300424: ARnold_Scene4_v03:pPlane6 7
+    3300426: ARnold_Scene4_v03:pPlane6 8
+    3300428: ARnold_Scene4_v03:pPlane6 9
+    3300430: ARnold_Scene4_v03:pPlane7
+    3300432: ARnold_Scene4_v03:pPlane7 1
+    3300434: ARnold_Scene4_v03:pPlane7 2
+    3300436: ARnold_Scene4_v03:pPlane7 3
+    3300438: ARnold_Scene4_v03:pPlane7 4
+    3300440: ARnold_Scene4_v03:pPlane7 5
+    3300442: ARnold_Scene4_v03:pPlane7 6
+    3300444: ARnold_Scene4_v03:pPlane7 7
+    3300446: ARnold_Scene4_v03:pPlane7 8
+    3300448: ARnold_Scene4_v03:pPlane7 9
+    3300450: ARnold_Scene4_v03:pPlane8
+    3300452: ARnold_Scene4_v03:pPlane8 1
+    3300454: ARnold_Scene4_v03:pPlane8 2
+    3300456: ARnold_Scene4_v03:pPlane8 3
+    3300458: ARnold_Scene4_v03:pPlane8 4
+    3300460: ARnold_Scene4_v03:pPlane8 5
+    3300462: ARnold_Scene4_v03:pPlane8 6
+    3300464: ARnold_Scene4_v03:pPlane8 7
+    3300466: ARnold_Scene4_v03:pPlane8 8
+    3300468: ARnold_Scene4_v03:pPlane8 9
+    3300470: ARnold_Scene4_v03:pPlane9
+    3300472: ARnold_Scene4_v03:pPlane9 1
+    3300474: ARnold_Scene4_v03:pPlane9 2
+    3300476: ARnold_Scene4_v03:pPlane9 3
+    3300478: ARnold_Scene4_v03:pPlane9 4
+    3300480: ARnold_Scene4_v03:pPlane9 5
+    3300482: ARnold_Scene4_v03:pPlane9 6
+    3300484: ARnold_Scene4_v03:pPlane9 7
+    3300486: ARnold_Scene4_v03:pPlane9 8
+    3300488: ARnold_Scene4_v03:pPlane9 9
+    3300490: ARnold_Scene4_v03:Sad
+    3300492: ARnold_Scene4_v03:sleep
+    3300494: ARnold_Scene4_v03:Smile
+    3300496: ARnold_Scene4_v03:Suspicoius
+    3300498: ARnold_Scene4_v03:Wink
+    4300000: ARnold_Scene4_v03:Beagle
+    4300002: ARnold_Scene4_v03:Angry
+    4300004: ARnold_Scene4_v03:Smile
+    4300006: ARnold_Scene4_v03:Sad
+    4300008: ARnold_Scene4_v03:Curious
+    4300010: ARnold_Scene4_v03:Wink
+    4300012: ARnold_Scene4_v03:Suspicoius
+    4300014: ARnold_Scene4_v03:sleep
+    4300016: ARnold_Scene4_v03:ARnold_demoday:Door1
+    4300018: ARnold_Scene4_v03:pCube1
+    4300020: ARnold_Scene4_v03:pCube2
+    4300022: ARnold_Scene4_v03:pPlane1
+    4300024: ARnold_Scene4_v03:pCube3
+    4300026: ARnold_Scene4_v03:pPlane11
+    4300028: ARnold_Scene4_v03:pPlane2
+    4300030: ARnold_Scene4_v03:pPlane3
+    4300032: ARnold_Scene4_v03:pPlane4
+    4300034: ARnold_Scene4_v03:pPlane5
+    4300036: ARnold_Scene4_v03:pPlane6
+    4300038: ARnold_Scene4_v03:pPlane7
+    4300040: ARnold_Scene4_v03:pPlane8
+    4300042: ARnold_Scene4_v03:pPlane9
+    4300044: ARnold_Scene4_v03:pPlane10
+    4300046: ARnold_Scene4_v03:pPlane12
+    4300048: ARnold_Scene4_v03:pPlane13
+    4300050: ARnold_Scene4_v03:pPlane14
+    4300052: ARnold_Scene4_v03:pPlane15
+    4300054: ARnold_Scene4_v03:pPlane16
+    4300056: ARnold_Scene4_v03:pPlane17
+    4300058: ARnold_Scene4_v03:pPlane18
+    4300060: ARnold_Scene4_v03:pPlane19
+    4300062: ARnold_Scene4_v03:pPlane20
+    4300064: ARnold_Scene4_v03:pPlane21
+    4300066: ARnold_Scene4_v03:pCube2
+    4300068: ARnold_Scene4_v03:pPlane1
+    4300070: ARnold_Scene4_v03:pCube3
+    4300072: ARnold_Scene4_v03:pPlane11
+    4300074: ARnold_Scene4_v03:pPlane2
+    4300076: ARnold_Scene4_v03:pPlane3
+    4300078: ARnold_Scene4_v03:pPlane4
+    4300080: ARnold_Scene4_v03:pPlane5
+    4300082: ARnold_Scene4_v03:pPlane6
+    4300084: ARnold_Scene4_v03:pPlane7
+    4300086: ARnold_Scene4_v03:pPlane8
+    4300088: ARnold_Scene4_v03:pPlane9
+    4300090: ARnold_Scene4_v03:pPlane10
+    4300092: ARnold_Scene4_v03:pPlane12
+    4300094: ARnold_Scene4_v03:pPlane13
+    4300096: ARnold_Scene4_v03:pPlane14
+    4300098: ARnold_Scene4_v03:pPlane15
+    4300100: ARnold_Scene4_v03:pPlane16
+    4300102: ARnold_Scene4_v03:pPlane17
+    4300104: ARnold_Scene4_v03:pPlane18
+    4300106: ARnold_Scene4_v03:pPlane19
+    4300108: ARnold_Scene4_v03:pPlane20
+    4300110: ARnold_Scene4_v03:pPlane21
+    4300112: ARnold_Scene4_v03:pCube2
+    4300114: ARnold_Scene4_v03:pPlane1
+    4300116: ARnold_Scene4_v03:pCube3
+    4300118: ARnold_Scene4_v03:pPlane11
+    4300120: ARnold_Scene4_v03:pPlane2
+    4300122: ARnold_Scene4_v03:pPlane3
+    4300124: ARnold_Scene4_v03:pPlane4
+    4300126: ARnold_Scene4_v03:pPlane5
+    4300128: ARnold_Scene4_v03:pPlane6
+    4300130: ARnold_Scene4_v03:pPlane7
+    4300132: ARnold_Scene4_v03:pPlane8
+    4300134: ARnold_Scene4_v03:pPlane9
+    4300136: ARnold_Scene4_v03:pPlane10
+    4300138: ARnold_Scene4_v03:pPlane12
+    4300140: ARnold_Scene4_v03:pPlane13
+    4300142: ARnold_Scene4_v03:pPlane14
+    4300144: ARnold_Scene4_v03:pPlane15
+    4300146: ARnold_Scene4_v03:pPlane16
+    4300148: ARnold_Scene4_v03:pPlane17
+    4300150: ARnold_Scene4_v03:pPlane18
+    4300152: ARnold_Scene4_v03:pPlane19
+    4300154: ARnold_Scene4_v03:pPlane20
+    4300156: ARnold_Scene4_v03:pPlane21
+    4300158: ARnold_Scene4_v03:pCube2
+    4300160: ARnold_Scene4_v03:pPlane1
+    4300162: ARnold_Scene4_v03:pCube3
+    4300164: ARnold_Scene4_v03:pPlane11
+    4300166: ARnold_Scene4_v03:pPlane2
+    4300168: ARnold_Scene4_v03:pPlane3
+    4300170: ARnold_Scene4_v03:pPlane4
+    4300172: ARnold_Scene4_v03:pPlane5
+    4300174: ARnold_Scene4_v03:pPlane6
+    4300176: ARnold_Scene4_v03:pPlane7
+    4300178: ARnold_Scene4_v03:pPlane8
+    4300180: ARnold_Scene4_v03:pPlane9
+    4300182: ARnold_Scene4_v03:pPlane10
+    4300184: ARnold_Scene4_v03:pPlane12
+    4300186: ARnold_Scene4_v03:pPlane13
+    4300188: ARnold_Scene4_v03:pPlane14
+    4300190: ARnold_Scene4_v03:pPlane15
+    4300192: ARnold_Scene4_v03:pPlane16
+    4300194: ARnold_Scene4_v03:pPlane17
+    4300196: ARnold_Scene4_v03:pPlane18
+    4300198: ARnold_Scene4_v03:pPlane19
+    4300200: ARnold_Scene4_v03:pPlane20
+    4300202: ARnold_Scene4_v03:pPlane21
+    4300204: ARnold_Scene4_v03:pCube2
+    4300206: ARnold_Scene4_v03:pPlane1
+    4300208: ARnold_Scene4_v03:pCube3
+    4300210: ARnold_Scene4_v03:pPlane11
+    4300212: ARnold_Scene4_v03:pPlane2
+    4300214: ARnold_Scene4_v03:pPlane3
+    4300216: ARnold_Scene4_v03:pPlane4
+    4300218: ARnold_Scene4_v03:pPlane5
+    4300220: ARnold_Scene4_v03:pPlane6
+    4300222: ARnold_Scene4_v03:pPlane7
+    4300224: ARnold_Scene4_v03:pPlane8
+    4300226: ARnold_Scene4_v03:pPlane9
+    4300228: ARnold_Scene4_v03:pPlane10
+    4300230: ARnold_Scene4_v03:pPlane12
+    4300232: ARnold_Scene4_v03:pPlane13
+    4300234: ARnold_Scene4_v03:pPlane14
+    4300236: ARnold_Scene4_v03:pPlane15
+    4300238: ARnold_Scene4_v03:pPlane16
+    4300240: ARnold_Scene4_v03:pPlane17
+    4300242: ARnold_Scene4_v03:pPlane18
+    4300244: ARnold_Scene4_v03:pPlane19
+    4300246: ARnold_Scene4_v03:pPlane20
+    4300248: ARnold_Scene4_v03:pPlane21
+    4300250: ARnold_Scene4_v03:pCube2
+    4300252: ARnold_Scene4_v03:pPlane1
+    4300254: ARnold_Scene4_v03:pCube3
+    4300256: ARnold_Scene4_v03:pPlane11
+    4300258: ARnold_Scene4_v03:pPlane2
+    4300260: ARnold_Scene4_v03:pPlane3
+    4300262: ARnold_Scene4_v03:pPlane4
+    4300264: ARnold_Scene4_v03:pPlane5
+    4300266: ARnold_Scene4_v03:pPlane6
+    4300268: ARnold_Scene4_v03:pPlane7
+    4300270: ARnold_Scene4_v03:pPlane8
+    4300272: ARnold_Scene4_v03:pPlane9
+    4300274: ARnold_Scene4_v03:pPlane10
+    4300276: ARnold_Scene4_v03:pPlane12
+    4300278: ARnold_Scene4_v03:pPlane13
+    4300280: ARnold_Scene4_v03:pPlane14
+    4300282: ARnold_Scene4_v03:pPlane15
+    4300284: ARnold_Scene4_v03:pPlane16
+    4300286: ARnold_Scene4_v03:pPlane17
+    4300288: ARnold_Scene4_v03:pPlane18
+    4300290: ARnold_Scene4_v03:pPlane19
+    4300292: ARnold_Scene4_v03:pPlane20
+    4300294: ARnold_Scene4_v03:pPlane21
+    4300296: ARnold_Scene4_v03:pCube2
+    4300298: ARnold_Scene4_v03:pPlane1
+    4300300: ARnold_Scene4_v03:pCube3
+    4300302: ARnold_Scene4_v03:pPlane11
+    4300304: ARnold_Scene4_v03:pPlane2
+    4300306: ARnold_Scene4_v03:pPlane3
+    4300308: ARnold_Scene4_v03:pPlane4
+    4300310: ARnold_Scene4_v03:pPlane5
+    4300312: ARnold_Scene4_v03:pPlane6
+    4300314: ARnold_Scene4_v03:pPlane7
+    4300316: ARnold_Scene4_v03:pPlane8
+    4300318: ARnold_Scene4_v03:pPlane9
+    4300320: ARnold_Scene4_v03:pPlane10
+    4300322: ARnold_Scene4_v03:pPlane12
+    4300324: ARnold_Scene4_v03:pPlane13
+    4300326: ARnold_Scene4_v03:pPlane14
+    4300328: ARnold_Scene4_v03:pPlane15
+    4300330: ARnold_Scene4_v03:pPlane16
+    4300332: ARnold_Scene4_v03:pPlane17
+    4300334: ARnold_Scene4_v03:pPlane18
+    4300336: ARnold_Scene4_v03:pPlane19
+    4300338: ARnold_Scene4_v03:pPlane20
+    4300340: ARnold_Scene4_v03:pPlane21
+    4300342: ARnold_Scene4_v03:pCube2
+    4300344: ARnold_Scene4_v03:pPlane1
+    4300346: ARnold_Scene4_v03:pCube3
+    4300348: ARnold_Scene4_v03:pPlane11
+    4300350: ARnold_Scene4_v03:pPlane2
+    4300352: ARnold_Scene4_v03:pPlane3
+    4300354: ARnold_Scene4_v03:pPlane4
+    4300356: ARnold_Scene4_v03:pPlane5
+    4300358: ARnold_Scene4_v03:pPlane6
+    4300360: ARnold_Scene4_v03:pPlane7
+    4300362: ARnold_Scene4_v03:pPlane8
+    4300364: ARnold_Scene4_v03:pPlane9
+    4300366: ARnold_Scene4_v03:pPlane10
+    4300368: ARnold_Scene4_v03:pPlane12
+    4300370: ARnold_Scene4_v03:pPlane13
+    4300372: ARnold_Scene4_v03:pPlane14
+    4300374: ARnold_Scene4_v03:pPlane15
+    4300376: ARnold_Scene4_v03:pPlane16
+    4300378: ARnold_Scene4_v03:pPlane17
+    4300380: ARnold_Scene4_v03:pPlane18
+    4300382: ARnold_Scene4_v03:pPlane19
+    4300384: ARnold_Scene4_v03:pPlane20
+    4300386: ARnold_Scene4_v03:pPlane21
+    4300388: ARnold_Scene4_v03:pasted__pCube1
+    4300390: ARnold_Scene4_v03:pasted__pasted__pCube1
+    4300392: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1
+    4300394: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1
+    4300396: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1
+    4300398: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1
+    4300400: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1
+    4300402: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1
+    4300404: ARnold_Scene4_v03:pasted__pasted__pasted__pCube1
+    4300406: ARnold_Scene4_v03:pCube2
+    4300408: ARnold_Scene4_v03:pPlane1
+    4300410: ARnold_Scene4_v03:pCube3
+    4300412: ARnold_Scene4_v03:pPlane11
+    4300414: ARnold_Scene4_v03:pPlane2
+    4300416: ARnold_Scene4_v03:pPlane3
+    4300418: ARnold_Scene4_v03:pPlane4
+    4300420: ARnold_Scene4_v03:pPlane5
+    4300422: ARnold_Scene4_v03:pPlane6
+    4300424: ARnold_Scene4_v03:pPlane7
+    4300426: ARnold_Scene4_v03:pPlane8
+    4300428: ARnold_Scene4_v03:pPlane9
+    4300430: ARnold_Scene4_v03:pPlane10
+    4300432: ARnold_Scene4_v03:pPlane12
+    4300434: ARnold_Scene4_v03:pPlane13
+    4300436: ARnold_Scene4_v03:pPlane14
+    4300438: ARnold_Scene4_v03:pPlane15
+    4300440: ARnold_Scene4_v03:pPlane16
+    4300442: ARnold_Scene4_v03:pPlane17
+    4300444: ARnold_Scene4_v03:pPlane18
+    4300446: ARnold_Scene4_v03:pPlane19
+    4300448: ARnold_Scene4_v03:pPlane20
+    4300450: ARnold_Scene4_v03:pPlane21
+    4300452: ARnold_Scene4_v03:ground_Proxy
+    4300454: ARnold_Scene4_v03:pCube2
+    4300456: ARnold_Scene4_v03:pPlane1
+    4300458: ARnold_Scene4_v03:pCube3
+    4300460: ARnold_Scene4_v03:pPlane11
+    4300462: ARnold_Scene4_v03:pPlane2
+    4300464: ARnold_Scene4_v03:pPlane3
+    4300466: ARnold_Scene4_v03:pPlane4
+    4300468: ARnold_Scene4_v03:pPlane5
+    4300470: ARnold_Scene4_v03:pPlane6
+    4300472: ARnold_Scene4_v03:pPlane7
+    4300474: ARnold_Scene4_v03:pPlane8
+    4300476: ARnold_Scene4_v03:pPlane9
+    4300478: ARnold_Scene4_v03:pPlane10
+    4300480: ARnold_Scene4_v03:pPlane12
+    4300482: ARnold_Scene4_v03:pPlane13
+    4300484: ARnold_Scene4_v03:pPlane14
+    4300486: ARnold_Scene4_v03:pPlane15
+    4300488: ARnold_Scene4_v03:pPlane16
+    4300490: ARnold_Scene4_v03:pPlane17
+    4300492: ARnold_Scene4_v03:pPlane18
+    4300494: ARnold_Scene4_v03:pPlane19
+    4300496: ARnold_Scene4_v03:pPlane20
+    4300498: ARnold_Scene4_v03:pPlane21
+    4300500: ARnold_Scene4_v03:ARnold_rig_v04:Beagle
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: ARnold_Scene4_v03:ARnold_rig_v04:Beagle
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

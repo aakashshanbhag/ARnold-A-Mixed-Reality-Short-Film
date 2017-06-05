@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 7aaacacf4c4979f4bb9646ef78da7d93
+timeCreated: 1489995162
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CABone
+    100004: Chinmay_Aakash
+    100006: Chinmay_Aakash 1
+    100008: Greg
+    100010: Gregbone
+    100012: GregText
+    100014: Kacey
+    100016: KaceyBone
+    100018: KaceyType
+    100020: Marcus
+    100022: MarcusBone
+    100024: MarcusType
+    100026: pCube1
+    100028: pCylinder1
+    100030: pCylinder2
+    100032: pCylinder3
+    100034: pCylinder4
+    100036: SpecialThanks
+    100038: SpecialThanksBone
+    100040: SpecialThanksHeadlineType
+    100042: SpecialThanksType1
+    100044: SpecialThanksType2
+    100046: transform1
+    100048: transform10
+    100050: transform11
+    100052: transform12
+    100054: transform13
+    100056: transform2
+    100058: transform3
+    100060: transform4
+    100062: transform5
+    100064: transform6
+    100066: transform7
+    100068: transform8
+    100070: transform9
+    100072: Yimin
+    100074: YiminBone
+    100076: YiminType
+    400000: //RootNode
+    400002: CABone
+    400004: Chinmay_Aakash
+    400006: Chinmay_Aakash 1
+    400008: Greg
+    400010: Gregbone
+    400012: GregText
+    400014: Kacey
+    400016: KaceyBone
+    400018: KaceyType
+    400020: Marcus
+    400022: MarcusBone
+    400024: MarcusType
+    400026: pCube1
+    400028: pCylinder1
+    400030: pCylinder2
+    400032: pCylinder3
+    400034: pCylinder4
+    400036: SpecialThanks
+    400038: SpecialThanksBone
+    400040: SpecialThanksHeadlineType
+    400042: SpecialThanksType1
+    400044: SpecialThanksType2
+    400046: transform1
+    400048: transform10
+    400050: transform11
+    400052: transform12
+    400054: transform13
+    400056: transform2
+    400058: transform3
+    400060: transform4
+    400062: transform5
+    400064: transform6
+    400066: transform7
+    400068: transform8
+    400070: transform9
+    400072: Yimin
+    400074: YiminBone
+    400076: YiminType
+    2300000: CABone
+    2300002: Chinmay_Aakash 1
+    2300004: Gregbone
+    2300006: GregText
+    2300008: KaceyBone
+    2300010: KaceyType
+    2300012: MarcusBone
+    2300014: MarcusType
+    2300016: SpecialThanksBone
+    2300018: SpecialThanksHeadlineType
+    2300020: SpecialThanksType1
+    2300022: SpecialThanksType2
+    2300024: YiminBone
+    2300026: YiminType
+    3300000: CABone
+    3300002: Chinmay_Aakash 1
+    3300004: Gregbone
+    3300006: GregText
+    3300008: KaceyBone
+    3300010: KaceyType
+    3300012: MarcusBone
+    3300014: MarcusType
+    3300016: SpecialThanksBone
+    3300018: SpecialThanksHeadlineType
+    3300020: SpecialThanksType1
+    3300022: SpecialThanksType2
+    3300024: YiminBone
+    3300026: YiminType
+    4300000: Gregbone
+    4300002: GregText
+    4300004: CABone
+    4300006: Chinmay_Aakash
+    4300008: YiminType
+    4300010: YiminBone
+    4300012: KaceyBone
+    4300014: KaceyType
+    4300016: MarcusType
+    4300018: MarcusBone
+    4300020: SpecialThanksHeadlineType
+    4300022: SpecialThanksType1
+    4300024: SpecialThanksType2
+    4300026: SpecialThanksBone
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

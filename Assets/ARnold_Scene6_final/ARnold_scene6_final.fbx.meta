@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: 93f1c39552b11094bb4618db69d66473
+timeCreated: 1489992849
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ARnold_Scene6_v04:ARnold_rig_v04:Beagle
+    100004: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 Head
+    100006: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 L Calf
+    100008: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 L Clavicle
+    100010: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 L Foot
+    100012: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 L Forearm
+    100014: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 L Hand
+    100016: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 L HorseLink
+    100018: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 L Thigh
+    100020: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 L UpperArm
+    100022: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 Neck
+    100024: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 Pelvis
+    100026: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 R Calf
+    100028: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 R Clavicle
+    100030: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 R Foot
+    100032: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 R Forearm
+    100034: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 R Hand
+    100036: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 R HorseLink
+    100038: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 R Thigh
+    100040: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 R UpperArm
+    100042: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 Spine
+    100044: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 Spine1
+    100046: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 Spine2
+    100048: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 Tail
+    100050: ARnold_Scene6_v04:ARnold_rig_v04:Bip003
+    100052: ARnold_Scene6_v04:ARnold_rig_v04:Bip003 Footsteps
+    100054: ARnold_Scene6_v04:ARnold_rig_v04:Bip003 HeadNub
+    100056: ARnold_Scene6_v04:ARnold_rig_v04:Bip003 L Toe0
+    100058: ARnold_Scene6_v04:ARnold_rig_v04:Bip003 L Toe0Nub
+    100060: ARnold_Scene6_v04:ARnold_rig_v04:Bip003 Ponytail1
+    100062: ARnold_Scene6_v04:ARnold_rig_v04:Bip003 Ponytail1Nub
+    100064: ARnold_Scene6_v04:ARnold_rig_v04:Bip003 Ponytail2
+    100066: ARnold_Scene6_v04:ARnold_rig_v04:Bip003 Ponytail2Nub
+    100068: ARnold_Scene6_v04:ARnold_rig_v04:Bip003 R Toe0
+    100070: ARnold_Scene6_v04:ARnold_rig_v04:Bip003 R Toe0Nub
+    100072: ARnold_Scene6_v04:ARnold_rig_v04:Bip003 Tail1
+    100074: ARnold_Scene6_v04:ARnold_rig_v04:Bip003 TailNub
+    100076: ARnold_Scene6_v04:ARnold_rig_v04:body_ctl
+    100078: ARnold_Scene6_v04:ARnold_rig_v04:Bone005
+    100080: ARnold_Scene6_v04:ARnold_rig_v04:Bone006
+    100082: ARnold_Scene6_v04:ARnold_rig_v04:EarRightBase001
+    100084: ARnold_Scene6_v04:ARnold_rig_v04:EarRightBase002
+    100086: ARnold_Scene6_v04:ARnold_rig_v04:EarRightMiddle001
+    100088: ARnold_Scene6_v04:ARnold_rig_v04:EarRightMiddle002
+    100090: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle1
+    100092: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle10
+    100094: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle11
+    100096: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle12
+    100098: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle13
+    100100: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle14
+    100102: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle15
+    100104: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle16
+    100106: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle17
+    100108: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle18
+    100110: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle19
+    100112: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle2
+    100114: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle20
+    100116: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle21
+    100118: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle22
+    100120: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle23
+    100122: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle24
+    100124: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle25
+    100126: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle26
+    100128: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle27
+    100130: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle3
+    100132: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle4
+    100134: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle5
+    100136: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle6
+    100138: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle7
+    100140: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle8
+    100142: ARnold_Scene6_v04:ARnold_withdoor1:CatDoor
+    100144: ARnold_Scene6_v04:ARnold_withdoor1:Door
+    100146: ARnold_Scene6_v04:ARnold_withdoor1:Door1
+    100148: ARnold_Scene6_v04:ARnold_withdoor1:pCube1
+    100150: ARnold_Scene6_v04:ARnold_withdoor1:pCube2
+    100152: ARnold_Scene6_v04:ARnold_withdoor1:pCube3
+    100154: ARnold_Scene6_v04:ARnold_withdoor1:pSphere1
+    100156: ARnold_Scene6_v04:ARnold_withdoor1:transform1
+    100158: ARnold_Scene6_v04:ARnold_withdoor1:transform2
+    100160: ARnold_Scene6_v04:ARnold_withdoor1:transform3
+    100162: ARnold_Scene6_v04:ARnold_withdoor1:transform4
+    100164: ARnold_Scene6_v04:ARnold_withdoor1:transform5
+    100166: ARnold_Scene6_v04:ARnold_withdoor:Beagle
+    100168: ARnold_Scene6_v04:ARnold_withdoor:Bip002 Head
+    100170: ARnold_Scene6_v04:ARnold_withdoor:Bip002 L Calf
+    100172: ARnold_Scene6_v04:ARnold_withdoor:Bip002 L Clavicle
+    100174: ARnold_Scene6_v04:ARnold_withdoor:Bip002 L Foot
+    100176: ARnold_Scene6_v04:ARnold_withdoor:Bip002 L Forearm
+    100178: ARnold_Scene6_v04:ARnold_withdoor:Bip002 L Hand
+    100180: ARnold_Scene6_v04:ARnold_withdoor:Bip002 L HorseLink
+    100182: ARnold_Scene6_v04:ARnold_withdoor:Bip002 L Thigh
+    100184: ARnold_Scene6_v04:ARnold_withdoor:Bip002 L UpperArm
+    100186: ARnold_Scene6_v04:ARnold_withdoor:Bip002 Neck
+    100188: ARnold_Scene6_v04:ARnold_withdoor:Bip002 Pelvis
+    100190: ARnold_Scene6_v04:ARnold_withdoor:Bip002 R Calf
+    100192: ARnold_Scene6_v04:ARnold_withdoor:Bip002 R Clavicle
+    100194: ARnold_Scene6_v04:ARnold_withdoor:Bip002 R Foot
+    100196: ARnold_Scene6_v04:ARnold_withdoor:Bip002 R Forearm
+    100198: ARnold_Scene6_v04:ARnold_withdoor:Bip002 R Hand
+    100200: ARnold_Scene6_v04:ARnold_withdoor:Bip002 R HorseLink
+    100202: ARnold_Scene6_v04:ARnold_withdoor:Bip002 R Thigh
+    100204: ARnold_Scene6_v04:ARnold_withdoor:Bip002 R UpperArm
+    100206: ARnold_Scene6_v04:ARnold_withdoor:Bip002 Spine
+    100208: ARnold_Scene6_v04:ARnold_withdoor:Bip002 Spine1
+    100210: ARnold_Scene6_v04:ARnold_withdoor:Bip002 Spine2
+    100212: ARnold_Scene6_v04:ARnold_withdoor:Bip002 Tail
+    100214: ARnold_Scene6_v04:ARnold_withdoor:Bip003
+    100216: ARnold_Scene6_v04:ARnold_withdoor:Bip003 Footsteps
+    100218: ARnold_Scene6_v04:ARnold_withdoor:Bip003 HeadNub
+    100220: ARnold_Scene6_v04:ARnold_withdoor:Bip003 L Toe0
+    100222: ARnold_Scene6_v04:ARnold_withdoor:Bip003 L Toe0Nub
+    100224: ARnold_Scene6_v04:ARnold_withdoor:Bip003 Ponytail1
+    100226: ARnold_Scene6_v04:ARnold_withdoor:Bip003 Ponytail1Nub
+    100228: ARnold_Scene6_v04:ARnold_withdoor:Bip003 Ponytail2
+    100230: ARnold_Scene6_v04:ARnold_withdoor:Bip003 Ponytail2Nub
+    100232: ARnold_Scene6_v04:ARnold_withdoor:Bip003 R Toe0
+    100234: ARnold_Scene6_v04:ARnold_withdoor:Bip003 R Toe0Nub
+    100236: ARnold_Scene6_v04:ARnold_withdoor:Bip003 Tail1
+    100238: ARnold_Scene6_v04:ARnold_withdoor:Bip003 TailNub
+    100240: ARnold_Scene6_v04:ARnold_withdoor:Bone005
+    100242: ARnold_Scene6_v04:ARnold_withdoor:Bone006
+    100244: ARnold_Scene6_v04:ARnold_withdoor:CatDoor
+    100246: ARnold_Scene6_v04:ARnold_withdoor:Door
+    100248: ARnold_Scene6_v04:ARnold_withdoor:Door1
+    100250: ARnold_Scene6_v04:ARnold_withdoor:EarRightBase001
+    100252: ARnold_Scene6_v04:ARnold_withdoor:EarRightBase002
+    100254: ARnold_Scene6_v04:ARnold_withdoor:EarRightMiddle001
+    100256: ARnold_Scene6_v04:ARnold_withdoor:EarRightMiddle002
+    100258: ARnold_Scene6_v04:ARnold_withdoor:pCube1
+    100260: ARnold_Scene6_v04:ARnold_withdoor:pCube2
+    100262: ARnold_Scene6_v04:ARnold_withdoor:pCube3
+    100264: ARnold_Scene6_v04:ARnold_withdoor:pSphere1
+    100266: ARnold_Scene6_v04:ARnold_withdoor:transform1
+    100268: ARnold_Scene6_v04:ARnold_withdoor:transform2
+    100270: ARnold_Scene6_v04:ARnold_withdoor:transform3
+    100272: ARnold_Scene6_v04:ARnold_withdoor:transform4
+    100274: ARnold_Scene6_v04:ARnold_withdoor:transform5
+    100276: ARnold_Scene6_v04:group
+    100278: ARnold_Scene6_v04:group1
+    100280: ARnold_Scene6_v04:group10
+    100282: ARnold_Scene6_v04:group11
+    100284: ARnold_Scene6_v04:group2
+    100286: ARnold_Scene6_v04:group3
+    100288: ARnold_Scene6_v04:group4
+    100290: ARnold_Scene6_v04:group5
+    100292: ARnold_Scene6_v04:group6
+    100294: ARnold_Scene6_v04:group7
+    100296: ARnold_Scene6_v04:group8
+    100298: ARnold_Scene6_v04:group9
+    100300: ARnold_Scene6_v04:pasted__group10
+    100302: ARnold_Scene6_v04:pasted__group5
+    100304: ARnold_Scene6_v04:pasted__pasted__pCube4
+    100306: ARnold_Scene6_v04:pasted__pasted__pCube5
+    100308: ARnold_Scene6_v04:pasted__pCube1
+    100310: ARnold_Scene6_v04:pasted__pCube3
+    100312: ARnold_Scene6_v04:pasted__pCube3 1
+    100314: ARnold_Scene6_v04:pasted__pCube4
+    100316: ARnold_Scene6_v04:pasted__pCube4 1
+    100318: ARnold_Scene6_v04:pasted__pCube4 2
+    100320: ARnold_Scene6_v04:pasted__pCube4 3
+    100322: ARnold_Scene6_v04:pasted__pCube5
+    100324: ARnold_Scene6_v04:pasted__pSphere1
+    100326: ARnold_Scene6_v04:pCube1
+    100328: ARnold_Scene6_v04:pCube2
+    100330: ARnold_Scene6_v04:pCube3
+    100332: ARnold_Scene6_v04:pCube4
+    100334: ARnold_Scene6_v04:pCube5
+    100336: ARnold_Scene6_v04:pCube6
+    100338: ARnold_Scene6_v04:pCylinder1
+    100340: ARnold_Scene6_v04:pPlane1
+    100342: ARnold_Scene6_v04:pSphere1
+    100344: ARnold_Scene6_v04:transform1
+    100346: ARnold_Scene6_v04:transform2
+    100348: ARnold_Scene6_v04:transform3
+    100350: ARnold_Scene6_v04:transform4
+    100352: ARnold_Scene6_v04:transform5
+    100354: ARnold_Scene6_v05:group1
+    100356: ARnold_Scene6_v05:pasted__pCube1
+    100358: ARnold_Scene6_v05:pCube1
+    100360: ARnold_Scene6_v05:pCube2
+    100362: ARnold_Scene6_v05:transform1
+    100364: ARnold_Scene6_v05:transform2
+    100366: group
+    100368: pasted__WORLD
+    400000: //RootNode
+    400002: ARnold_Scene6_v04:ARnold_rig_v04:Beagle
+    400004: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 Head
+    400006: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 L Calf
+    400008: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 L Clavicle
+    400010: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 L Foot
+    400012: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 L Forearm
+    400014: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 L Hand
+    400016: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 L HorseLink
+    400018: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 L Thigh
+    400020: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 L UpperArm
+    400022: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 Neck
+    400024: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 Pelvis
+    400026: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 R Calf
+    400028: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 R Clavicle
+    400030: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 R Foot
+    400032: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 R Forearm
+    400034: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 R Hand
+    400036: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 R HorseLink
+    400038: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 R Thigh
+    400040: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 R UpperArm
+    400042: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 Spine
+    400044: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 Spine1
+    400046: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 Spine2
+    400048: ARnold_Scene6_v04:ARnold_rig_v04:Bip002 Tail
+    400050: ARnold_Scene6_v04:ARnold_rig_v04:Bip003
+    400052: ARnold_Scene6_v04:ARnold_rig_v04:Bip003 Footsteps
+    400054: ARnold_Scene6_v04:ARnold_rig_v04:Bip003 HeadNub
+    400056: ARnold_Scene6_v04:ARnold_rig_v04:Bip003 L Toe0
+    400058: ARnold_Scene6_v04:ARnold_rig_v04:Bip003 L Toe0Nub
+    400060: ARnold_Scene6_v04:ARnold_rig_v04:Bip003 Ponytail1
+    400062: ARnold_Scene6_v04:ARnold_rig_v04:Bip003 Ponytail1Nub
+    400064: ARnold_Scene6_v04:ARnold_rig_v04:Bip003 Ponytail2
+    400066: ARnold_Scene6_v04:ARnold_rig_v04:Bip003 Ponytail2Nub
+    400068: ARnold_Scene6_v04:ARnold_rig_v04:Bip003 R Toe0
+    400070: ARnold_Scene6_v04:ARnold_rig_v04:Bip003 R Toe0Nub
+    400072: ARnold_Scene6_v04:ARnold_rig_v04:Bip003 Tail1
+    400074: ARnold_Scene6_v04:ARnold_rig_v04:Bip003 TailNub
+    400076: ARnold_Scene6_v04:ARnold_rig_v04:body_ctl
+    400078: ARnold_Scene6_v04:ARnold_rig_v04:Bone005
+    400080: ARnold_Scene6_v04:ARnold_rig_v04:Bone006
+    400082: ARnold_Scene6_v04:ARnold_rig_v04:EarRightBase001
+    400084: ARnold_Scene6_v04:ARnold_rig_v04:EarRightBase002
+    400086: ARnold_Scene6_v04:ARnold_rig_v04:EarRightMiddle001
+    400088: ARnold_Scene6_v04:ARnold_rig_v04:EarRightMiddle002
+    400090: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle1
+    400092: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle10
+    400094: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle11
+    400096: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle12
+    400098: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle13
+    400100: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle14
+    400102: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle15
+    400104: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle16
+    400106: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle17
+    400108: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle18
+    400110: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle19
+    400112: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle2
+    400114: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle20
+    400116: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle21
+    400118: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle22
+    400120: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle23
+    400122: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle24
+    400124: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle25
+    400126: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle26
+    400128: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle27
+    400130: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle3
+    400132: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle4
+    400134: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle5
+    400136: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle6
+    400138: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle7
+    400140: ARnold_Scene6_v04:ARnold_rig_v04:nurbsCircle8
+    400142: ARnold_Scene6_v04:ARnold_withdoor1:CatDoor
+    400144: ARnold_Scene6_v04:ARnold_withdoor1:Door
+    400146: ARnold_Scene6_v04:ARnold_withdoor1:Door1
+    400148: ARnold_Scene6_v04:ARnold_withdoor1:pCube1
+    400150: ARnold_Scene6_v04:ARnold_withdoor1:pCube2
+    400152: ARnold_Scene6_v04:ARnold_withdoor1:pCube3
+    400154: ARnold_Scene6_v04:ARnold_withdoor1:pSphere1
+    400156: ARnold_Scene6_v04:ARnold_withdoor1:transform1
+    400158: ARnold_Scene6_v04:ARnold_withdoor1:transform2
+    400160: ARnold_Scene6_v04:ARnold_withdoor1:transform3
+    400162: ARnold_Scene6_v04:ARnold_withdoor1:transform4
+    400164: ARnold_Scene6_v04:ARnold_withdoor1:transform5
+    400166: ARnold_Scene6_v04:ARnold_withdoor:Beagle
+    400168: ARnold_Scene6_v04:ARnold_withdoor:Bip002 Head
+    400170: ARnold_Scene6_v04:ARnold_withdoor:Bip002 L Calf
+    400172: ARnold_Scene6_v04:ARnold_withdoor:Bip002 L Clavicle
+    400174: ARnold_Scene6_v04:ARnold_withdoor:Bip002 L Foot
+    400176: ARnold_Scene6_v04:ARnold_withdoor:Bip002 L Forearm
+    400178: ARnold_Scene6_v04:ARnold_withdoor:Bip002 L Hand
+    400180: ARnold_Scene6_v04:ARnold_withdoor:Bip002 L HorseLink
+    400182: ARnold_Scene6_v04:ARnold_withdoor:Bip002 L Thigh
+    400184: ARnold_Scene6_v04:ARnold_withdoor:Bip002 L UpperArm
+    400186: ARnold_Scene6_v04:ARnold_withdoor:Bip002 Neck
+    400188: ARnold_Scene6_v04:ARnold_withdoor:Bip002 Pelvis
+    400190: ARnold_Scene6_v04:ARnold_withdoor:Bip002 R Calf
+    400192: ARnold_Scene6_v04:ARnold_withdoor:Bip002 R Clavicle
+    400194: ARnold_Scene6_v04:ARnold_withdoor:Bip002 R Foot
+    400196: ARnold_Scene6_v04:ARnold_withdoor:Bip002 R Forearm
+    400198: ARnold_Scene6_v04:ARnold_withdoor:Bip002 R Hand
+    400200: ARnold_Scene6_v04:ARnold_withdoor:Bip002 R HorseLink
+    400202: ARnold_Scene6_v04:ARnold_withdoor:Bip002 R Thigh
+    400204: ARnold_Scene6_v04:ARnold_withdoor:Bip002 R UpperArm
+    400206: ARnold_Scene6_v04:ARnold_withdoor:Bip002 Spine
+    400208: ARnold_Scene6_v04:ARnold_withdoor:Bip002 Spine1
+    400210: ARnold_Scene6_v04:ARnold_withdoor:Bip002 Spine2
+    400212: ARnold_Scene6_v04:ARnold_withdoor:Bip002 Tail
+    400214: ARnold_Scene6_v04:ARnold_withdoor:Bip003
+    400216: ARnold_Scene6_v04:ARnold_withdoor:Bip003 Footsteps
+    400218: ARnold_Scene6_v04:ARnold_withdoor:Bip003 HeadNub
+    400220: ARnold_Scene6_v04:ARnold_withdoor:Bip003 L Toe0
+    400222: ARnold_Scene6_v04:ARnold_withdoor:Bip003 L Toe0Nub
+    400224: ARnold_Scene6_v04:ARnold_withdoor:Bip003 Ponytail1
+    400226: ARnold_Scene6_v04:ARnold_withdoor:Bip003 Ponytail1Nub
+    400228: ARnold_Scene6_v04:ARnold_withdoor:Bip003 Ponytail2
+    400230: ARnold_Scene6_v04:ARnold_withdoor:Bip003 Ponytail2Nub
+    400232: ARnold_Scene6_v04:ARnold_withdoor:Bip003 R Toe0
+    400234: ARnold_Scene6_v04:ARnold_withdoor:Bip003 R Toe0Nub
+    400236: ARnold_Scene6_v04:ARnold_withdoor:Bip003 Tail1
+    400238: ARnold_Scene6_v04:ARnold_withdoor:Bip003 TailNub
+    400240: ARnold_Scene6_v04:ARnold_withdoor:Bone005
+    400242: ARnold_Scene6_v04:ARnold_withdoor:Bone006
+    400244: ARnold_Scene6_v04:ARnold_withdoor:CatDoor
+    400246: ARnold_Scene6_v04:ARnold_withdoor:Door
+    400248: ARnold_Scene6_v04:ARnold_withdoor:Door1
+    400250: ARnold_Scene6_v04:ARnold_withdoor:EarRightBase001
+    400252: ARnold_Scene6_v04:ARnold_withdoor:EarRightBase002
+    400254: ARnold_Scene6_v04:ARnold_withdoor:EarRightMiddle001
+    400256: ARnold_Scene6_v04:ARnold_withdoor:EarRightMiddle002
+    400258: ARnold_Scene6_v04:ARnold_withdoor:pCube1
+    400260: ARnold_Scene6_v04:ARnold_withdoor:pCube2
+    400262: ARnold_Scene6_v04:ARnold_withdoor:pCube3
+    400264: ARnold_Scene6_v04:ARnold_withdoor:pSphere1
+    400266: ARnold_Scene6_v04:ARnold_withdoor:transform1
+    400268: ARnold_Scene6_v04:ARnold_withdoor:transform2
+    400270: ARnold_Scene6_v04:ARnold_withdoor:transform3
+    400272: ARnold_Scene6_v04:ARnold_withdoor:transform4
+    400274: ARnold_Scene6_v04:ARnold_withdoor:transform5
+    400276: ARnold_Scene6_v04:group
+    400278: ARnold_Scene6_v04:group1
+    400280: ARnold_Scene6_v04:group10
+    400282: ARnold_Scene6_v04:group11
+    400284: ARnold_Scene6_v04:group2
+    400286: ARnold_Scene6_v04:group3
+    400288: ARnold_Scene6_v04:group4
+    400290: ARnold_Scene6_v04:group5
+    400292: ARnold_Scene6_v04:group6
+    400294: ARnold_Scene6_v04:group7
+    400296: ARnold_Scene6_v04:group8
+    400298: ARnold_Scene6_v04:group9
+    400300: ARnold_Scene6_v04:pasted__group10
+    400302: ARnold_Scene6_v04:pasted__group5
+    400304: ARnold_Scene6_v04:pasted__pasted__pCube4
+    400306: ARnold_Scene6_v04:pasted__pasted__pCube5
+    400308: ARnold_Scene6_v04:pasted__pCube1
+    400310: ARnold_Scene6_v04:pasted__pCube3
+    400312: ARnold_Scene6_v04:pasted__pCube3 1
+    400314: ARnold_Scene6_v04:pasted__pCube4
+    400316: ARnold_Scene6_v04:pasted__pCube4 1
+    400318: ARnold_Scene6_v04:pasted__pCube4 2
+    400320: ARnold_Scene6_v04:pasted__pCube4 3
+    400322: ARnold_Scene6_v04:pasted__pCube5
+    400324: ARnold_Scene6_v04:pasted__pSphere1
+    400326: ARnold_Scene6_v04:pCube1
+    400328: ARnold_Scene6_v04:pCube2
+    400330: ARnold_Scene6_v04:pCube3
+    400332: ARnold_Scene6_v04:pCube4
+    400334: ARnold_Scene6_v04:pCube5
+    400336: ARnold_Scene6_v04:pCube6
+    400338: ARnold_Scene6_v04:pCylinder1
+    400340: ARnold_Scene6_v04:pPlane1
+    400342: ARnold_Scene6_v04:pSphere1
+    400344: ARnold_Scene6_v04:transform1
+    400346: ARnold_Scene6_v04:transform2
+    400348: ARnold_Scene6_v04:transform3
+    400350: ARnold_Scene6_v04:transform4
+    400352: ARnold_Scene6_v04:transform5
+    400354: ARnold_Scene6_v05:group1
+    400356: ARnold_Scene6_v05:pasted__pCube1
+    400358: ARnold_Scene6_v05:pCube1
+    400360: ARnold_Scene6_v05:pCube2
+    400362: ARnold_Scene6_v05:transform1
+    400364: ARnold_Scene6_v05:transform2
+    400366: group
+    400368: pasted__WORLD
+    2300000: ARnold_Scene6_v04:ARnold_withdoor1:CatDoor
+    2300002: ARnold_Scene6_v04:ARnold_withdoor1:Door1
+    2300004: ARnold_Scene6_v04:ARnold_withdoor:CatDoor
+    2300006: ARnold_Scene6_v04:ARnold_withdoor:Door1
+    2300008: ARnold_Scene6_v04:pasted__pasted__pCube4
+    2300010: ARnold_Scene6_v04:pasted__pCube3
+    2300012: ARnold_Scene6_v04:pasted__pCube3 1
+    2300014: ARnold_Scene6_v04:pasted__pCube4
+    2300016: ARnold_Scene6_v04:pasted__pCube4 1
+    2300018: ARnold_Scene6_v04:pasted__pCube4 2
+    2300020: ARnold_Scene6_v04:pasted__pCube4 3
+    2300022: ARnold_Scene6_v04:pasted__pSphere1
+    2300024: ARnold_Scene6_v04:pCube2
+    2300026: ARnold_Scene6_v04:pCube3
+    2300028: ARnold_Scene6_v04:pCube4
+    2300030: ARnold_Scene6_v04:pCube6
+    2300032: ARnold_Scene6_v04:pCylinder1
+    2300034: ARnold_Scene6_v04:pPlane1
+    2300036: ARnold_Scene6_v04:pSphere1
+    2300038: ARnold_Scene6_v05:pCube2
+    3300000: ARnold_Scene6_v04:ARnold_withdoor1:CatDoor
+    3300002: ARnold_Scene6_v04:ARnold_withdoor1:Door1
+    3300004: ARnold_Scene6_v04:ARnold_withdoor:CatDoor
+    3300006: ARnold_Scene6_v04:ARnold_withdoor:Door1
+    3300008: ARnold_Scene6_v04:pasted__pasted__pCube4
+    3300010: ARnold_Scene6_v04:pasted__pCube3
+    3300012: ARnold_Scene6_v04:pasted__pCube3 1
+    3300014: ARnold_Scene6_v04:pasted__pCube4
+    3300016: ARnold_Scene6_v04:pasted__pCube4 1
+    3300018: ARnold_Scene6_v04:pasted__pCube4 2
+    3300020: ARnold_Scene6_v04:pasted__pCube4 3
+    3300022: ARnold_Scene6_v04:pasted__pSphere1
+    3300024: ARnold_Scene6_v04:pCube2
+    3300026: ARnold_Scene6_v04:pCube3
+    3300028: ARnold_Scene6_v04:pCube4
+    3300030: ARnold_Scene6_v04:pCube6
+    3300032: ARnold_Scene6_v04:pCylinder1
+    3300034: ARnold_Scene6_v04:pPlane1
+    3300036: ARnold_Scene6_v04:pSphere1
+    3300038: ARnold_Scene6_v05:pCube2
+    4300000: ARnold_Scene6_v04:ARnold_withdoor:Beagle
+    4300002: ARnold_Scene6_v04:ARnold_withdoor:Door1
+    4300004: ARnold_Scene6_v04:ARnold_withdoor:CatDoor
+    4300006: ARnold_Scene6_v04:ARnold_withdoor1:Door1
+    4300008: ARnold_Scene6_v04:ARnold_withdoor1:CatDoor
+    4300010: ARnold_Scene6_v04:pCube2
+    4300012: ARnold_Scene6_v04:pCube3
+    4300014: ARnold_Scene6_v04:pasted__pCube3
+    4300016: ARnold_Scene6_v04:pasted__pCube3
+    4300018: ARnold_Scene6_v04:pSphere1
+    4300020: ARnold_Scene6_v04:pasted__pSphere1
+    4300022: ARnold_Scene6_v04:pCylinder1
+    4300024: ARnold_Scene6_v04:pCube4
+    4300026: ARnold_Scene6_v04:pasted__pCube4
+    4300028: ARnold_Scene6_v04:pasted__pCube4
+    4300030: ARnold_Scene6_v04:pasted__pCube4
+    4300032: ARnold_Scene6_v04:pasted__pCube4
+    4300034: ARnold_Scene6_v04:pasted__pasted__pCube4
+    4300036: ARnold_Scene6_v04:pCube6
+    4300038: ARnold_Scene6_v04:pPlane1
+    4300040: ARnold_Scene6_v04:ARnold_rig_v04:Beagle
+    4300042: ARnold_Scene6_v05:pCube2
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: ARnold_Scene6_v04:ARnold_rig_v04:Beagle
+    13700002: ARnold_Scene6_v04:ARnold_withdoor:Beagle
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
